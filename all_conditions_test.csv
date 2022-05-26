@@ -1,0 +1,973 @@
+age,sex,on_thyroxine,query_on_thyroxine,on_antithyroid_meds,sick,pregnant,thyroid_surgery,I131_treatment,query_hypothyroid,query_hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,TSH_measured,TSH,T3_measured,T3,TT4_measured,TT4,T4U_measured,T4U,FTI_measured,FTI,TBG_measured,TBG,referral_source,patient_id,target_hyper,target_hypo,target_bp,target_rep,target_sick
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,219,negative,negative,negative,negative,negative
+63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.5,t,2.5,t,108,t,0.96,t,113,f,,SVI,2059,negative,negative,negative,negative,negative
+25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.6,t,2.4,t,61,t,0.82,t,75,f,,SVHD,399,negative,negative,negative,negative,negative
+53,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.25,t,2.1,t,145,t,1.03,t,141,f,,other,1911,negative,negative,negative,negative,negative
+92,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,1.3,t,120,t,0.84,t,143,f,,SVI,487,negative,negative,negative,negative,negative
+67,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.81,f,,t,84,t,0.83,t,101,f,,other,1234,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2.6,t,117,t,1.31,t,90,f,,other,1113,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,27,t,1.8,t,65,t,0.99,t,66,f,,SVI,1344,negative,compensated hypothyroid,negative,negative,negative
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,f,,t,112,t,0.92,t,121,f,,other,2758,negative,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,2.2,t,94,t,0.89,t,106,f,,SVI,3230,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.4,t,1.2,t,95,t,1.11,t,85,f,,SVI,1249,negative,negative,negative,negative,negative
+19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,t,2.8,t,131,t,0.95,t,138,f,,SVHC,825,negative,negative,negative,negative,negative
+72,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.1,f,,t,131,t,0.5,t,265,f,,other,3231,negative,negative,negative,negative,negative
+16,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.5,f,,f,,f,,f,,f,,other,3563,negative,negative,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.14,t,3.4,t,105,f,,f,,f,,other,3076,negative,negative,increased binding protein,negative,negative
+39,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.06,t,2.4,t,148,t,1.07,t,138,f,,other,3272,negative,negative,negative,negative,negative
+38,,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.1,t,2.2,t,145,t,1.23,t,118,f,,SVHC,3710,negative,negative,negative,negative,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1957,negative,negative,negative,negative,negative
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7.4,t,1.4,t,108,t,1.08,t,100,f,,SVI,567,negative,compensated hypothyroid,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,1.7,t,81,t,0.87,t,94,f,,other,1721,negative,negative,negative,negative,negative
+21,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,f,,f,,t,132,t,0.87,t,152,f,,other,3595,negative,negative,negative,negative,negative
+19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2.3,t,82,t,0.88,t,92,f,,other,3368,negative,negative,negative,negative,negative
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,92,t,0.83,t,111,f,,other,1510,negative,negative,negative,negative,negative
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1.8,t,133,t,1.16,t,115,f,,SVI,352,negative,negative,negative,negative,negative
+51,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,5.8,f,,t,261,t,2.32,t,113,f,,other,3458,negative,negative,increased binding protein,negative,negative
+64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.78,f,,t,106,t,0.88,t,121,f,,SVI,3735,negative,negative,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,t,2.2,t,90,t,1.16,t,78,f,,other,1614,negative,negative,negative,negative,negative
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.1,t,111,t,1.02,t,109,f,,other,1216,negative,negative,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.52,f,,t,96,t,0.69,t,140,f,,SVI,3386,negative,negative,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,t,f,t,t,0.4,t,2.4,t,103,t,0.91,t,114,f,,SVHC,501,negative,negative,negative,negative,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2.1,t,112,f,,f,,f,,other,1798,negative,negative,negative,negative,negative
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,1.4,t,120,t,0.87,t,138,f,,other,191,negative,negative,negative,negative,negative
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.8,t,81,t,0.91,t,88,f,,other,947,negative,negative,negative,negative,negative
+79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,17,t,1.6,t,66,t,1,t,65,f,,other,595,negative,compensated hypothyroid,negative,negative,negative
+21,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,t,3.7,t,162,t,1.47,t,110,f,,other,663,negative,negative,negative,negative,negative
+20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2.6,t,87,f,,f,,f,,other,2095,negative,negative,negative,negative,negative
+20,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.2,t,3,t,135,t,1.29,t,105,f,,other,1952,negative,negative,negative,negative,negative
+79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,3.4,t,151,t,0.74,t,203,f,,other,1610,hyperthyroid,negative,negative,negative,negative
+64,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,f,,t,89,t,0.95,t,94,f,,other,1369,negative,negative,negative,negative,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,1.5,t,140,t,0.88,t,160,f,,SVI,917,negative,negative,negative,negative,negative
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.9,t,125,t,1.01,t,124,f,,SVI,2344,negative,negative,negative,negative,negative
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,f,,t,68,t,0.62,t,111,f,,other,3495,negative,compensated hypothyroid,negative,negative,negative
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2.2,t,178,t,1.26,t,142,f,,other,2673,negative,negative,negative,negative,negative
+46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.6,t,125,t,1.06,t,118,f,,SVHC,2482,negative,negative,negative,negative,negative
+27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,f,,t,112,t,0.95,t,117,f,,other,3158,negative,negative,negative,negative,negative
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2.3,t,114,t,1.1,t,104,f,,SVI,2576,negative,negative,negative,negative,negative
+50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4,f,,t,120,t,0.8,t,150,f,,other,46,negative,negative,negative,negative,negative
+59,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,t,2.1,t,98,t,0.9,t,108,f,,other,3425,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,1.9,t,76,t,0.88,t,86,f,,SVI,507,negative,negative,negative,negative,negative
+67,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.42,t,1.4,t,140,t,0.98,t,143,f,,SVI,2449,negative,negative,negative,negative,negative
+69,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,2.1,t,188,t,0.97,t,194,f,,other,3527,negative,negative,negative,replacement therapy,negative
+30,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,1.4,t,2.2,t,122,t,1.1,t,111,f,,other,2917,negative,negative,negative,negative,negative
+31,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,5,f,,t,141,t,1.09,t,130,f,,other,3597,negative,negative,negative,negative,negative
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2.7,t,108,t,1.05,t,103,f,,SVHC,401,negative,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,2.2,t,88,t,0.96,t,92,f,,SVI,403,negative,negative,negative,negative,negative
+89,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.4,t,105,t,0.95,t,110,f,,SVI,1871,negative,negative,negative,negative,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,0.8,t,99,t,0.88,t,113,f,,SVI,1342,negative,negative,negative,negative,sick
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,2.7,t,119,t,1.12,t,106,f,,SVI,1835,negative,negative,negative,negative,negative
+68,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,t,1.9,f,,t,93,t,0.86,t,108,f,,SVHC,3712,negative,negative,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,1.8,t,94,t,1,t,94,f,,other,3308,negative,negative,negative,negative,negative
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7.6,t,4.2,t,164,t,1.55,t,106,f,,other,738,negative,negative,negative,negative,negative
+65,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,3.4,t,210,t,1.05,t,199,f,,other,382,negative,negative,negative,overreplacement,negative
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,1.9,t,123,t,1.16,t,106,f,,SVI,2866,negative,negative,negative,negative,negative
+51,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,f,,t,160,t,1.09,t,147,f,,other,2550,negative,negative,negative,negative,negative
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.79,t,1.5,t,110,t,0.88,t,125,f,,SVI,2418,negative,negative,negative,negative,negative
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,3.7,t,2.3,t,100,t,1.11,t,90,f,,SVHC,2423,negative,negative,negative,negative,negative
+24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1.6,t,96,f,,f,,f,,other,998,negative,negative,negative,negative,negative
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.77,t,2.3,t,83,t,0.89,t,94,f,,other,2753,negative,negative,negative,negative,negative
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.2,t,61,t,0.8,t,76,f,,other,214,negative,negative,negative,negative,negative
+80,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.2,t,1.8,t,111,t,0.97,t,114,f,,SVI,626,negative,negative,negative,negative,negative
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.64,t,2.3,t,107,t,1.06,t,101,f,,other,1252,negative,negative,negative,negative,negative
+23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,2,t,90,t,0.93,t,97,f,,other,1092,negative,negative,negative,negative,negative
+11,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,682,negative,negative,negative,negative,negative
+18,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.98,f,,t,158,t,1.31,t,120,f,,other,3630,negative,negative,negative,negative,negative
+62,F,t,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0.025,t,2.2,t,183,t,1.03,t,178,f,,other,1309,negative,negative,negative,overreplacement,negative
+76,,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.4,t,2.4,t,118,t,0.91,t,130,f,,other,2926,negative,negative,negative,negative,negative
+22,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2.5,t,106,f,,f,,f,,other,2056,negative,negative,negative,negative,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,f,,t,140,t,1.63,t,86,f,,other,3016,negative,negative,increased binding protein,negative,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.93,t,1.7,t,81,f,,f,,f,,other,2865,negative,negative,negative,negative,negative
+54,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.58,t,2.6,t,100,t,1.01,t,99,f,,other,3457,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.34,t,2.5,t,163,t,1.11,t,148,f,,SVI,1644,negative,negative,negative,negative,negative
+68,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,2.6,t,1.8,t,104,t,1.1,t,95,f,,other,3116,negative,negative,negative,negative,negative
+47,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,3.4,t,2.2,t,102,t,1.02,t,101,f,,other,3594,negative,negative,negative,negative,negative
+33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,2.1,t,69,t,0.74,t,93,f,,other,2437,negative,negative,negative,negative,negative
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.1,t,2.4,t,106,t,0.97,t,109,f,,SVHC,2463,negative,negative,negative,negative,negative
+56,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.05,t,1.9,t,137,t,1.09,t,126,f,,SVI,383,negative,negative,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.86,t,2.2,f,,f,,f,,f,,other,2838,negative,negative,negative,negative,negative
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.5,t,87,t,0.94,t,93,f,,other,996,negative,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.47,t,2.2,t,161,t,1.05,t,153,f,,SVHC,3222,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2.4,t,73,t,0.89,t,82,f,,SVI,2058,negative,negative,negative,negative,negative
+83,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,f,,t,85,t,0.65,t,131,f,,SVI,3193,negative,negative,negative,negative,negative
+74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,1.6,t,90,t,0.79,t,114,f,,other,3413,negative,negative,negative,negative,negative
+78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.1,t,2,t,123,t,0.91,t,135,f,,SVHC,3018,negative,negative,negative,negative,negative
+50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,f,,t,248,t,1.5,t,165,f,,other,1863,negative,negative,negative,replacement therapy,negative
+31,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.95,t,2.6,t,152,t,1.4,t,110,f,,other,1161,negative,negative,negative,negative,negative
+64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.6,t,1.5,t,133,t,1.08,t,124,f,,SVI,1136,negative,negative,negative,negative,negative
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2,t,155,t,1.01,t,154,f,,other,2959,negative,negative,negative,negative,negative
+47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,f,,t,98,t,1.14,t,86,f,,SVI,3353,negative,negative,negative,negative,negative
+16,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2.4,t,110,t,0.92,t,119,f,,SVI,2984,negative,negative,negative,negative,negative
+40,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,34,t,1.7,t,78,t,0.9,t,87,f,,other,3312,negative,compensated hypothyroid,negative,negative,negative
+27,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2.6,t,100,f,,f,,f,,other,307,negative,negative,negative,negative,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.4,t,1,t,84,t,0.69,t,121,f,,SVI,1322,negative,negative,negative,negative,sick
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,4.1,t,139,t,0.71,t,196,f,,other,3643,negative,negative,negative,negative,negative
+65,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.025,t,3.2,t,129,t,0.77,t,168,f,,SVI,838,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,2.5,t,87,t,0.79,t,109,f,,other,1975,negative,negative,negative,negative,negative
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,2.2,t,74,t,0.86,t,86,f,,other,3648,negative,negative,negative,negative,negative
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2341,negative,negative,negative,negative,negative
+54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,14.4,t,1.1,t,51,t,0.68,t,75,f,,SVI,2990,negative,compensated hypothyroid,negative,negative,sick
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1820,negative,negative,negative,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,1.4,t,113,t,1.03,t,110,f,,SVI,934,negative,negative,negative,negative,negative
+46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,4.8,t,2.9,t,132,t,1.27,t,104,f,,SVHC,1203,negative,negative,increased binding protein,negative,negative
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.82,t,2.5,t,97,t,0.91,t,107,f,,other,2642,negative,negative,negative,negative,negative
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,28,t,1.8,t,72,t,0.87,t,82,f,,SVI,2570,negative,compensated hypothyroid,negative,negative,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,1.5,t,86,t,0.65,t,132,f,,SVHC,1306,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,1.2,f,,t,109,t,1.08,t,100,f,,other,2334,negative,negative,negative,negative,negative
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.44,f,,t,75,t,0.6,t,124,f,,SVI,3095,negative,negative,negative,negative,negative
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.4,f,,t,77,t,0.67,t,115,f,,SVI,3708,negative,negative,negative,negative,negative
+20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2.1,t,106,t,0.92,t,115,f,,STMW,3005,negative,negative,negative,negative,negative
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2.3,t,104,t,1.03,t,101,f,,SVHC,3680,negative,negative,negative,negative,negative
+69,F,f,f,f,t,f,f,f,f,f,f,f,t,f,f,f,,f,,f,,f,,f,,f,,other,479,negative,negative,negative,negative,negative
+33,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,f,,f,,f,,f,,f,,f,,other,478,negative,negative,negative,negative,negative
+41,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,3.2,t,1.3,t,78,t,0.97,t,80,f,,other,1048,negative,negative,negative,negative,negative
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,1.9,t,83,t,0.67,t,124,f,,SVI,1967,negative,negative,negative,negative,negative
+59,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,2.2,t,164,t,1.01,t,162,f,,other,2498,negative,negative,negative,overreplacement,negative
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,58,t,2.4,t,25,t,1.21,t,20,f,,SVI,1392,negative,primary hypothyroid,negative,negative,negative
+85,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.58,t,1.9,t,140,t,0.96,t,145,f,,SVI,2707,negative,negative,negative,negative,negative
+77,M,t,f,f,f,f,f,t,t,f,f,f,f,f,f,t,0.93,t,1.9,t,121,t,1.36,t,89,f,,other,1518,negative,negative,negative,negative,negative
+86,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,f,,t,131,t,1.01,t,131,f,,other,3515,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.3,t,124,t,1.17,t,106,f,,SVI,725,negative,negative,negative,negative,negative
+32,M,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,1,t,2.4,t,121,t,1.2,t,101,f,,other,1833,negative,negative,negative,negative,negative
+72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.74,t,1,t,82,t,0.86,t,95,f,,SVHC,2501,negative,negative,negative,negative,sick
+43,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.01,f,,t,171,t,0.98,t,174,f,,other,1568,negative,negative,negative,replacement therapy,negative
+38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.67,t,1.9,t,92,t,0.76,t,121,f,,SVI,1512,negative,negative,negative,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,21,t,0.8,t,53,t,0.86,t,61,f,,SVI,1767,negative,primary hypothyroid,negative,negative,negative
+17,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.8,t,3.4,t,46,f,,f,,f,,SVHC,1657,negative,negative,negative,negative,negative
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,67,t,0.9,t,75,f,,other,2018,negative,negative,negative,negative,negative
+42,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.6,t,203,t,1.01,t,200,f,,other,3265,negative,negative,negative,overreplacement,negative
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,165,t,0.4,t,17,t,1.19,t,14,f,,other,2201,negative,primary hypothyroid,negative,negative,negative
+46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.2,t,2.2,t,68,f,,f,,f,,other,2419,negative,negative,negative,negative,negative
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.06,t,1.9,t,135,t,1.02,t,132,f,,other,2477,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,8.9,f,,t,75,t,0.97,t,77,f,,other,2694,negative,compensated hypothyroid,negative,negative,negative
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.8,t,2.6,t,93,t,1.18,t,79,f,,STMW,2125,negative,negative,negative,negative,negative
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,t,2.1,t,87,t,0.75,t,115,f,,other,2887,negative,negative,negative,negative,negative
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7,f,,t,71,t,0.78,t,90,f,,other,3206,negative,compensated hypothyroid,negative,negative,negative
+55,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.7,t,1.9,t,132,t,1.15,t,114,f,,SVI,1217,negative,negative,negative,negative,negative
+24,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.78,t,2.5,t,148,t,1.23,t,120,f,,other,2675,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.7,t,1.6,t,72,t,0.85,t,85,f,,other,2992,negative,negative,negative,negative,negative
+16,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,1.9,t,112,t,1.26,t,89,f,,other,2353,negative,negative,negative,negative,negative
+27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,79,t,0.79,t,100,f,,other,1727,negative,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.4,t,2.2,t,75,t,0.9,t,84,f,,SVI,709,negative,negative,negative,negative,negative
+67,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.45,f,,t,124,t,1.02,t,122,f,,other,2954,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1.6,t,71,t,0.82,t,86,f,,other,3610,negative,negative,negative,negative,negative
+50,F,f,f,t,f,f,f,f,f,t,f,f,f,f,f,t,0.03,t,3.4,t,131,t,1.02,t,129,f,,other,3433,T3 toxic,negative,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2.5,t,151,t,1.21,t,125,f,,other,360,negative,negative,negative,negative,negative
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,0.8,t,75,t,0.77,t,98,f,,SVI,128,negative,negative,negative,negative,sick
+32,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.01,t,2.3,t,147,t,0.75,t,198,f,,SVI,1449,negative,negative,negative,replacement therapy,negative
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.83,t,2.2,t,79,t,0.8,t,99,f,,SVHC,2882,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.9,t,113,t,1.14,t,99,f,,other,983,negative,negative,negative,negative,negative
+55,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.98,f,,t,107,t,0.99,t,107,f,,other,3566,negative,negative,negative,negative,negative
+85,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.84,t,0.8,t,161,t,0.97,t,166,f,,SVI,1196,negative,negative,negative,negative,negative
+25,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,4.9,f,,t,74,t,0.92,t,80,f,,other,205,negative,negative,negative,negative,negative
+20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2.5,t,94,t,1.04,t,90,f,,other,1168,negative,negative,negative,negative,negative
+53,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.63,t,1.6,t,115,t,0.9,t,128,f,,other,2493,negative,negative,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,3.3,t,0.7,t,76,t,0.72,t,105,f,,SVHC,3154,negative,negative,negative,negative,sick
+32,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2.9,t,138,t,1.15,t,120,f,,other,3365,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.7,t,1.1,t,89,t,0.75,t,118,f,,SVI,811,negative,negative,negative,negative,sick
+28,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.1,t,1.8,t,85,t,0.78,t,109,f,,other,54,negative,negative,negative,negative,negative
+17,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,83,t,0.99,t,84,f,,other,1795,negative,negative,negative,negative,negative
+38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,f,,t,81,t,0.86,t,94,f,,other,3670,negative,negative,negative,negative,negative
+23,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,4.6,f,,t,157,t,1.71,t,92,f,,STMW,3379,negative,negative,increased binding protein,negative,negative
+38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2.5,t,2.3,t,90,t,0.91,t,99,f,,SVHC,2766,negative,negative,negative,negative,negative
+76,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.25,t,0.8,t,78,t,0.75,t,104,f,,other,476,negative,negative,negative,negative,sick
+37,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,f,,t,133,t,0.98,t,136,f,,other,1919,negative,negative,negative,negative,negative
+40,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,9.2,t,1.5,t,113,t,1.03,t,109,f,,other,1045,negative,compensated hypothyroid,negative,negative,negative
+23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.7,t,2.3,t,150,t,1.25,t,120,f,,other,2611,negative,negative,negative,negative,negative
+57,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,t,1.8,t,71,t,0.72,t,99,f,,other,1723,negative,negative,negative,negative,negative
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2.2,t,81,t,0.94,t,86,f,,SVI,735,negative,negative,negative,negative,negative
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,24,t,1.9,t,65,f,,f,,f,,other,1851,negative,compensated hypothyroid,negative,negative,negative
+63,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2.3,t,2.3,t,111,t,1.06,t,105,f,,other,2687,negative,negative,negative,negative,negative
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2,t,98,t,0.84,t,117,f,,other,2628,negative,negative,negative,negative,negative
+23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.78,t,2,t,102,t,0.97,t,106,f,,SVHC,3408,negative,negative,negative,negative,negative
+35,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,31,t,2.6,t,46,t,1,t,46,f,,other,2370,negative,primary hypothyroid,negative,negative,negative
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,1.5,t,146,t,1.18,t,124,f,,SVI,591,negative,negative,negative,negative,negative
+18,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,9.6,t,2.4,t,220,t,1.68,t,131,f,,STMW,1764,negative,negative,negative,negative,negative
+83,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,2.5,f,,t,118,t,0.97,t,121,f,,other,3184,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,22,t,2.3,t,197,t,0.92,t,213,f,,SVI,957,negative,negative,negative,negative,negative
+66,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.07,f,,t,118,t,0.94,t,126,f,,other,827,negative,negative,negative,negative,negative
+25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1956,negative,negative,negative,negative,negative
+63,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,162,t,0.81,t,200,f,,other,2958,hyperthyroid,negative,negative,negative,negative
+34,F,f,f,f,f,t,f,f,f,t,f,f,f,f,f,t,0.03,t,4.2,t,134,t,1.65,t,81,f,,other,1651,negative,negative,increased binding protein,negative,negative
+14,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2194,negative,negative,negative,negative,negative
+62,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1.1,f,,t,108,t,0.95,t,113,f,,other,3765,negative,negative,negative,negative,negative
+65,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,t,1.2,t,118,t,0.9,t,130,f,,other,3561,negative,negative,negative,underreplacement,negative
+37,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2.2,f,,t,100,t,1.14,t,87,f,,other,1440,negative,negative,negative,negative,negative
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.2,t,1.8,t,86,t,0.81,t,106,f,,SVI,1663,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,0.2,f,,t,256,t,0.9,t,283,f,,other,116,hyperthyroid,negative,negative,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,f,,t,90,t,1.16,t,77,f,,other,1941,negative,negative,negative,negative,negative
+43,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.3,t,136,t,0.97,t,140,f,,SVI,837,negative,negative,negative,negative,negative
+70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.43,f,,t,116,t,0.78,t,149,f,,SVI,3192,negative,negative,negative,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.37,t,1.2,t,91,t,0.95,t,96,f,,other,1232,negative,negative,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,t,3.8,t,157,t,1.52,t,103,f,,SVI,1647,negative,negative,increased binding protein,negative,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,1.9,f,,f,,f,,f,,other,2486,negative,negative,negative,negative,negative
+52,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,98,t,0.71,t,138,f,,other,3275,negative,negative,negative,negative,negative
+57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,1.5,t,91,t,0.79,t,115,f,,SVHD,411,negative,negative,negative,negative,negative
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,t,1.5,t,106,t,0.92,t,115,f,,SVI,1009,negative,compensated hypothyroid,negative,negative,negative
+56,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,9.5,f,,t,115,t,1.31,t,88,f,,other,1162,negative,negative,negative,underreplacement,negative
+47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2.9,t,113,t,1.13,t,100,f,,other,1747,negative,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.94,t,2.9,t,92,t,0.93,t,100,f,,SVHC,2912,negative,negative,increased binding protein,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,0.6,t,82,t,0.46,t,179,f,,SVI,1682,negative,negative,decreased binding protein,negative,sick
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.63,t,2.3,t,139,t,1.11,t,125,f,,other,3350,negative,negative,negative,negative,negative
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,1.4,t,85,t,0.93,t,92,f,,other,1050,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,2.4,t,95,t,0.95,t,100,f,,other,459,negative,negative,negative,negative,negative
+74,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.6,t,1.6,t,95,t,1.07,t,89,f,,SVI,1712,negative,negative,negative,negative,negative
+41,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2.8,f,,t,149,t,1,t,148,f,,other,3398,negative,negative,negative,negative,negative
+93,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,3,t,0.9,t,92,t,0.81,t,112,f,,SVI,1199,negative,negative,negative,negative,sick
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,1.4,t,92,t,0.92,t,101,f,,SVI,488,negative,negative,negative,negative,negative
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,80,t,1.4,t,41,t,1.14,t,36,f,,other,1594,negative,primary hypothyroid,negative,negative,negative
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.9,t,1.9,t,122,t,0.95,t,129,f,,SVI,1083,negative,negative,negative,negative,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,2.2,t,96,t,1.03,t,93,f,,STMW,1567,negative,negative,negative,negative,negative
+39,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.02,t,4,t,209,t,1.06,t,197,f,,other,1376,hyperthyroid,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.055,t,8.5,t,244,t,0.98,t,249,f,,other,2913,hyperthyroid,negative,negative,negative,negative
+18,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.5,f,,t,116,t,1.05,t,111,f,,other,2048,negative,negative,negative,negative,negative
+81,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.65,t,1.3,t,91,t,0.87,t,104,f,,SVI,836,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.2,t,2.1,t,83,t,1.19,t,69,f,,SVI,2377,negative,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.9,t,2,t,126,t,1.26,t,100,f,,other,2723,negative,negative,negative,negative,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.8,t,2,t,139,t,1.02,t,137,f,,SVHC,800,negative,negative,negative,negative,negative
+59,,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0.25,t,2.4,t,109,t,0.97,t,113,f,,other,564,negative,negative,negative,negative,negative
+52,M,t,t,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,99,t,0.92,t,107,f,,other,3400,negative,negative,negative,negative,negative
+21,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,325,negative,negative,negative,negative,negative
+57,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,2.6,t,0.7,t,115,f,,f,,f,,SVI,3591,negative,negative,negative,negative,sick
+75,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.045,t,2,t,146,t,1.05,t,139,f,,SVI,3624,negative,negative,negative,negative,negative
+84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1.4,t,103,t,1.1,t,94,f,,other,1229,negative,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.7,t,2,t,45,f,,f,,f,,SVHC,1660,negative,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,1.9,t,86,t,1.06,t,81,f,,SVHC,1514,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.3,t,102,t,1,t,102,f,,SVHC,708,negative,negative,negative,negative,negative
+79,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,2.8,t,1.5,t,105,t,1.05,t,100,f,,other,3770,negative,negative,negative,negative,negative
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.1,t,69,t,0.81,t,86,f,,other,1739,negative,negative,negative,negative,negative
+22,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.56,t,2.7,t,179,t,1.25,t,143,f,,other,1621,negative,negative,negative,negative,negative
+15,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.04,t,1.4,t,103,t,0.85,t,120,f,,SVI,790,negative,negative,negative,negative,negative
+33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,160,t,0.3,t,9.5,f,,f,,f,,SVI,799,negative,primary hypothyroid,negative,negative,negative
+74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.3,t,1.8,t,98,t,0.83,t,118,f,,other,2903,negative,negative,negative,negative,negative
+12,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,2.7,t,93,f,,f,,f,,SVI,323,negative,negative,negative,negative,negative
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.39,t,2.3,t,102,f,,f,,f,,other,818,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,3.1,t,151,t,1.4,t,108,f,,SVHC,1999,negative,negative,increased binding protein,negative,negative
+50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.66,f,,t,127,t,0.97,t,131,f,,other,3521,negative,negative,negative,negative,negative
+63,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,52,t,0.85,t,61,f,,other,156,negative,negative,negative,negative,negative
+56,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2.8,t,141,t,0.99,t,142,f,,other,2386,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.21,t,0.9,t,122,t,1.04,t,117,f,,SVI,1560,negative,negative,negative,negative,sick
+76,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,2.1,t,98,t,1.01,t,97,f,,other,21,negative,negative,negative,negative,negative
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.7,t,93,t,0.78,t,119,f,,SVI,62,negative,negative,negative,negative,negative
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.53,t,2.1,t,94,t,0.95,t,99,f,,SVI,807,negative,negative,negative,negative,negative
+32,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.7,t,85,t,0.84,t,101,f,,other,668,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.82,t,2.2,t,100,t,0.98,t,102,f,,other,2644,negative,negative,negative,negative,negative
+78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.57,t,1.9,t,90,t,0.88,t,102,f,,other,928,negative,negative,negative,negative,negative
+58,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,3.2,t,2.1,t,75,t,1.04,t,72,f,,other,1707,negative,negative,negative,negative,negative
+40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.4,t,1.8,t,92,t,0.85,t,108,f,,SVHC,3619,negative,negative,negative,negative,negative
+66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,4.5,t,1.3,t,89,t,0.73,t,121,f,,SVHC,1000,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,3.7,f,,t,69,t,0.83,t,83,f,,other,112,negative,negative,negative,negative,negative
+15,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,145,t,1.7,t,19,t,1.13,t,17,f,,other,1393,negative,primary hypothyroid,negative,negative,negative
+70,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,1.3,t,1.8,t,94,t,0.86,t,110,f,,SVI,809,negative,negative,negative,negative,negative
+44,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,4.4,t,1.9,t,82,t,0.9,t,90,f,,other,1371,negative,negative,negative,negative,negative
+62,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,3.3,t,2,t,116,t,1.06,t,110,f,,SVI,2470,negative,negative,negative,negative,negative
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,2.3,t,90,t,0.81,t,112,f,,SVI,2736,negative,negative,negative,negative,negative
+84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.6,t,1.5,t,83,t,0.78,t,106,f,,SVI,2867,negative,negative,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.6,t,2.3,t,100,t,0.94,t,106,f,,other,562,negative,negative,negative,negative,negative
+29,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,2,t,127,t,0.92,t,138,f,,other,486,negative,negative,negative,negative,negative
+43,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.7,f,,t,104,t,0.91,t,115,f,,other,3717,negative,negative,negative,negative,negative
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.9,t,83,t,0.89,t,93,f,,other,647,negative,negative,negative,negative,negative
+71,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,25,t,0.3,t,31,t,0.68,t,46,f,,SVI,1634,negative,primary hypothyroid,negative,negative,negative
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,1.1,t,102,t,0.81,t,125,f,,other,3262,negative,negative,negative,negative,negative
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,2,t,99,t,0.8,t,124,f,,SVHC,706,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.1,t,2.4,t,81,t,0.97,t,84,f,,other,2085,negative,negative,negative,negative,negative
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.4,t,86,t,0.75,t,114,f,,SVHC,707,negative,negative,negative,negative,negative
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.43,t,0.4,t,92,t,0.75,t,123,f,,SVI,924,negative,negative,negative,negative,sick
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2,t,71,t,0.93,t,76,f,,other,1755,negative,negative,negative,negative,negative
+71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.6,t,122,t,0.81,t,152,f,,other,123,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.77,t,3.2,t,175,t,1.47,t,119,f,,other,1305,negative,negative,increased binding protein,negative,negative
+43,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.95,t,1.9,t,101,t,0.81,t,125,f,,other,856,negative,negative,negative,negative,negative
+47,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.2,t,2.1,t,130,t,0.99,t,131,f,,other,1034,negative,negative,negative,negative,negative
+77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.9,t,2,t,105,t,1.05,t,100,f,,SVI,357,negative,negative,negative,negative,negative
+65,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,1.9,t,139,t,0.84,t,165,f,,other,3429,negative,negative,negative,replacement therapy,negative
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1.7,t,93,t,0.84,t,111,f,,other,3135,negative,negative,negative,negative,negative
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2.7,t,159,t,1.19,t,134,f,,SVHC,175,negative,negative,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,1.4,t,96,t,0.88,t,109,f,,other,1357,negative,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,1.6,t,101,t,1.09,t,92,f,,SVHC,1964,negative,negative,negative,negative,negative
+50,F,f,f,t,f,f,f,f,f,t,f,f,f,f,f,t,0.01,t,2.8,t,74,t,1.14,t,65,f,,other,3627,negative,negative,negative,negative,negative
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,101,t,1.09,t,93,f,,other,3307,negative,negative,negative,negative,negative
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2,t,83,t,1.31,t,63,f,,SVI,3036,negative,negative,increased binding protein,negative,negative
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,112,t,0.9,t,124,f,,other,2920,negative,negative,negative,negative,negative
+83,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.77,t,1.44,t,123,t,0.99,t,124,f,,other,3548,negative,negative,negative,negative,negative
+31,,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.1,t,212,t,1.17,t,181,f,,other,2848,negative,negative,negative,overreplacement,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.2,t,1.6,t,101,t,1.1,t,92,f,,SVI,1085,negative,negative,negative,negative,negative
+40,F,t,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,425,negative,negative,negative,negative,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.06,f,,t,125,t,1.07,t,117,f,,other,3732,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.4,t,2.6,t,98,t,0.93,t,105,f,,other,2742,negative,negative,negative,negative,negative
+34,F,f,f,t,f,f,f,f,f,t,f,f,f,f,f,t,27,t,4.4,t,273,t,1.22,t,222,f,,STMW,3326,secondary toxic,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,2.1,t,109,f,,f,,f,,other,2290,negative,negative,negative,negative,negative
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,1.8,t,108,t,0.71,t,151,f,,SVI,44,negative,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,2.2,t,57,t,0.92,t,63,f,,SVHC,1626,negative,negative,negative,negative,negative
+41,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.58,f,,t,102,t,0.84,t,121,f,,other,2045,negative,negative,negative,negative,negative
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,f,,t,87,t,0.92,t,95,f,,SVI,3133,negative,negative,negative,negative,negative
+60,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,30.5,t,1,t,32,t,0.63,t,51,f,,other,3002,negative,primary hypothyroid,negative,negative,negative
+61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,f,,t,113,t,0.82,t,138,f,,other,3146,negative,negative,negative,negative,negative
+49,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,81,t,1.14,t,71,f,,other,713,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,2.2,t,138,t,1.24,t,111,f,,other,414,negative,negative,negative,negative,negative
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.04,t,2.2,t,116,t,1.04,t,111,f,,other,1604,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,t,0.025,t,1.5,t,77,t,0.94,t,82,f,,other,817,negative,negative,negative,negative,negative
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,2.7,t,122,t,0.83,t,147,f,,other,2491,negative,negative,negative,negative,negative
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.5,f,,t,75,t,0.84,t,89,f,,SVI,3288,negative,negative,negative,negative,negative
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2.3,t,89,t,0.94,t,95,f,,other,1788,negative,negative,negative,negative,negative
+69,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.9,t,1.8,t,163,t,1.09,t,149,f,,other,2110,negative,negative,negative,negative,negative
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,90,t,1,t,90,f,,other,341,negative,negative,negative,negative,negative
+47,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.04,t,2,t,104,t,0.87,t,120,f,,other,3555,negative,negative,negative,negative,negative
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,2.9,t,133,t,1.18,t,113,f,,SVHC,1513,negative,negative,negative,negative,negative
+60,M,f,f,f,t,f,f,f,t,f,f,f,f,f,f,t,2.7,f,,t,88,t,1.07,t,82,f,,other,3020,negative,negative,negative,negative,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2256,negative,negative,negative,negative,negative
+71,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.1,f,,t,108,t,1.05,t,104,f,,other,493,negative,negative,negative,negative,negative
+67,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.84,t,3.3,t,222,t,1.82,t,122,f,,SVI,2701,negative,negative,increased binding protein,negative,negative
+78,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.99,t,1.7,t,114,t,0.96,t,119,f,,SVHD,2362,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,1.4,f,,f,,f,,f,,other,2863,negative,negative,negative,negative,negative
+57,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2,t,91,t,1.18,t,77,f,,SVI,669,negative,negative,negative,negative,negative
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,2.4,t,105,t,1.18,t,88,f,,SVI,1179,negative,negative,negative,negative,negative
+49,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,1.2,t,89,t,1.09,t,82,f,,SVI,418,negative,negative,negative,negative,negative
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.07,f,,t,168,t,0.92,t,183,f,,other,3745,negative,negative,negative,negative,negative
+49,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,t,2.4,t,111,t,1.07,t,104,f,,other,1676,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.1,t,1.4,t,110,f,,f,,f,,other,3010,negative,negative,negative,negative,negative
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,0.6,t,110,t,0.83,t,133,f,,SVI,463,negative,negative,negative,negative,sick
+68,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,20,t,2.5,t,111,t,1.57,t,71,f,,other,1372,negative,compensated hypothyroid,negative,negative,negative
+20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2.6,t,3.3,t,121,t,1.08,t,112,f,,SVHC,2530,negative,negative,negative,negative,negative
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,t,3.1,t,142,t,1.47,t,97,f,,other,2236,negative,negative,increased binding protein,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2,t,89,t,0.89,t,99,f,,other,246,negative,negative,negative,negative,negative
+74,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,0.8,t,151,t,1.01,t,150,f,,other,977,negative,negative,negative,negative,negative
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2,t,142,t,1,t,142,f,,SVI,526,negative,negative,negative,negative,negative
+47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,1.9,t,99,t,0.79,t,125,f,,SVHC,1748,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,t,2.7,t,120,t,1.27,t,95,f,,other,1533,negative,negative,negative,negative,negative
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,2.2,t,86,t,1.09,t,79,f,,other,2703,negative,negative,negative,negative,negative
+78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,1.7,t,104,t,0.76,t,137,f,,SVI,824,negative,negative,negative,negative,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,1.4,t,89,t,0.99,t,90,f,,other,1973,negative,negative,negative,negative,negative
+82,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,3.2,t,1.4,t,76,t,0.86,t,88,f,,SVI,2615,negative,negative,negative,negative,negative
+11,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,f,,t,191,t,1.23,t,156,f,,other,665,hyperthyroid,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1,t,2.3,t,116,t,1.13,t,103,f,,other,2718,negative,negative,negative,negative,negative
+72,F,t,f,t,f,f,f,f,f,f,f,f,f,f,f,t,0.4,f,,t,186,t,1.24,t,150,f,,other,189,negative,negative,negative,negative,negative
+33,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.2,t,1.5,t,157,t,0.91,t,172,f,,other,446,hyperthyroid,negative,negative,negative,sick
+38,F,f,f,f,f,f,f,f,f,f,f,t,t,f,f,f,,f,,f,,f,,f,,f,,other,1040,negative,negative,negative,negative,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,7.6,t,120,t,1.04,t,116,f,,SVI,769,negative,negative,negative,negative,negative
+21,F,t,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.2,t,1.6,t,99,t,0.87,t,114,f,,SVHC,3369,negative,negative,negative,negative,negative
+78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,1.8,t,122,t,1.07,t,114,f,,SVI,1025,negative,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,f,,t,104,t,1.06,t,98,f,,other,2852,negative,negative,negative,negative,negative
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.4,t,115,t,0.97,t,118,f,,SVHC,1939,negative,negative,negative,negative,negative
+27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,1.7,t,89,t,0.86,t,104,f,,other,3173,negative,negative,negative,negative,negative
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,1.9,t,94,t,1.07,t,88,f,,other,1121,negative,negative,negative,negative,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.98,t,1.8,t,100,f,,f,,f,,SVI,1286,negative,negative,negative,negative,negative
+68,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,19,f,,t,93,t,1.2,t,77,f,,other,2938,negative,compensated hypothyroid,negative,negative,negative
+74,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,28,f,,t,74,t,1.03,t,72,f,,other,899,negative,negative,negative,underreplacement,negative
+49,M,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0.015,f,,t,137,t,0.8,t,170,f,,other,2558,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.2,t,1.4,t,84,t,0.96,t,88,f,,SVI,3137,negative,negative,negative,negative,negative
+76,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.65,t,1.5,t,111,t,0.96,t,116,f,,other,2391,negative,negative,negative,negative,negative
+55,,f,f,f,f,f,f,f,t,f,f,f,f,f,t,t,0.59,f,,t,118,t,1.03,t,114,f,,SVHC,3543,negative,negative,negative,negative,negative
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.6,t,2.1,t,89,t,0.86,t,103,f,,SVHC,959,negative,negative,negative,negative,negative
+71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,1.2,t,107,t,1.1,t,97,f,,other,2242,negative,negative,negative,negative,negative
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.1,t,2.5,t,84,t,1.05,t,80,f,,SVHC,884,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7.9,t,1.2,t,73,t,0.8,t,91,f,,SVI,1318,negative,compensated hypothyroid,negative,negative,negative
+76,F,f,f,f,t,f,t,f,f,f,f,f,f,f,f,t,1.8,t,1.2,t,65,t,0.76,t,86,f,,other,2360,negative,negative,negative,negative,negative
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,315,negative,negative,negative,negative,negative
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.4,t,1.6,t,61,t,1.09,t,56,f,,other,986,negative,negative,negative,negative,negative
+15,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.51,t,1.3,t,121,t,0.78,t,155,f,,SVI,1149,negative,negative,negative,negative,negative
+41,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2141,negative,negative,negative,negative,negative
+55,M,t,f,f,t,f,f,f,f,f,f,f,f,f,f,t,7.6,t,1,t,86,t,0.84,t,102,f,,other,89,negative,negative,negative,underreplacement,sick
+71,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7.8,t,1.4,t,111,t,0.96,t,116,f,,SVI,2250,negative,negative,negative,underreplacement,negative
+30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.2,f,,t,97,t,0.69,t,141,f,,other,2800,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.4,t,2.3,t,111,t,0.97,t,115,f,,other,1751,negative,negative,negative,negative,negative
+18,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.2,f,,t,78,t,0.77,t,102,f,,SVI,3631,negative,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.61,t,1.7,t,107,t,0.81,t,132,f,,SVI,3404,negative,negative,negative,negative,negative
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.28,t,2.1,t,116,t,1.14,t,102,f,,other,2524,negative,negative,negative,negative,negative
+75,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.02,f,,t,150,t,0.88,t,171,f,,SVHD,3348,hyperthyroid,negative,negative,negative,negative
+39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.2,t,3.1,t,99,t,1.01,t,98,f,,SVHC,1112,negative,negative,negative,negative,negative
+14,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,0.8,t,121,t,0.95,t,127,f,,other,2935,negative,negative,negative,negative,negative
+59,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,4,t,1.3,t,120,t,0.94,t,128,f,,other,2714,negative,negative,negative,negative,negative
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.8,t,142,t,0.99,t,144,f,,SVHC,2879,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,t,2.3,t,120,t,1.03,t,117,f,,other,1868,negative,negative,negative,negative,negative
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,25,t,0.3,t,10,t,1.18,t,8.4,f,,other,2275,negative,primary hypothyroid,negative,negative,negative
+35,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,73,t,0.91,t,81,f,,other,2452,negative,negative,negative,negative,negative
+69,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.9,f,,t,116,t,1.1,t,105,f,,other,601,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.6,t,119,t,0.92,t,130,f,,SVI,1277,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2.3,t,119,t,0.95,t,125,f,,other,2590,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,f,,t,68,t,0.64,t,106,f,,other,3513,negative,negative,negative,negative,negative
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,f,,t,92,t,0.87,t,106,f,,other,3074,negative,negative,negative,negative,negative
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.6,t,92,t,0.9,t,102,f,,other,1698,negative,negative,negative,negative,negative
+46,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,1.7,t,132,t,1.02,t,130,f,,other,2508,negative,negative,negative,negative,negative
+63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2.3,t,90,t,0.88,t,102,f,,other,335,negative,negative,negative,negative,negative
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.5,t,121,t,0.8,t,153,f,,SVI,231,negative,negative,negative,negative,negative
+15,,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,3.6,t,1.3,t,153,t,1,t,152,f,,SVHC,2937,negative,negative,negative,negative,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.2,t,152,t,0.78,t,196,f,,SVI,2196,hyperthyroid,negative,negative,negative,sick
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,1.4,t,91,t,0.85,t,108,f,,SVI,3039,negative,negative,negative,negative,negative
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2.7,t,110,t,1.09,t,101,f,,SVI,892,negative,negative,negative,negative,negative
+33,F,f,f,f,f,t,f,f,f,f,f,t,f,f,f,t,3.9,t,2.2,t,120,t,1.41,t,85,f,,other,971,negative,negative,negative,negative,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,0.8,t,44,t,0.84,t,52,f,,SVI,655,negative,negative,negative,negative,sick
+51,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,2,f,,t,109,t,0.91,t,120,f,,other,2799,negative,negative,negative,negative,negative
+23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.6,t,88,t,0.89,t,100,f,,other,951,negative,negative,negative,negative,negative
+75,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,1.6,t,111,t,0.77,t,145,f,,SVHC,3088,negative,negative,negative,negative,negative
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2.5,t,139,t,1.12,t,124,f,,other,1224,negative,negative,negative,negative,negative
+23,,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,4.1,t,1.9,t,66,t,0.85,t,77,f,,SVHD,2756,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.32,t,2.7,t,96,t,1.4,t,69,f,,other,3247,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.7,t,91,t,0.98,t,93,f,,other,1101,negative,negative,negative,negative,negative
+35,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.46,f,,t,77,t,0.67,t,115,f,,other,3492,negative,negative,negative,negative,negative
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.67,t,1.1,t,137,t,0.86,t,160,f,,SVI,1094,negative,negative,negative,negative,negative
+16,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.07,t,1.5,t,140,t,0.89,t,157,f,,other,2811,negative,negative,negative,negative,negative
+25,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,2,t,2.2,t,123,t,1.52,t,81,f,,other,1328,negative,negative,negative,negative,negative
+80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.97,t,1.7,t,83,t,0.97,t,86,f,,other,2940,negative,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.36,t,3,t,131,t,1.04,t,126,f,,SVHC,3286,negative,negative,negative,negative,negative
+59,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.9,t,3.6,t,112,t,1.18,t,96,f,,other,743,negative,negative,negative,negative,negative
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,3.1,t,107,t,1.05,t,103,f,,SVHC,1969,negative,negative,negative,negative,negative
+66,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.5,t,129,t,1.02,t,127,f,,other,1314,negative,negative,negative,negative,negative
+38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,778,negative,negative,negative,negative,negative
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,0.6,t,120,t,1.06,t,113,f,,SVI,32,negative,negative,negative,negative,sick
+55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.015,t,1.9,t,115,t,0.77,t,149,f,,other,3542,negative,negative,negative,negative,negative
+34,F,f,f,f,f,f,f,f,t,f,t,f,f,f,f,t,6.3,t,2.7,t,153,t,1.7,t,90,f,,SVHC,1483,negative,negative,negative,negative,negative
+59,F,t,f,f,t,f,f,f,f,f,f,f,t,f,f,t,0.2,t,4.3,t,140,t,1.68,t,83,f,,SVHD,633,goitre,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2.1,f,,t,70,t,0.48,t,146,f,,other,3160,negative,negative,negative,negative,negative
+89,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.2,t,70,t,1.06,t,66,f,,SVI,462,negative,negative,negative,negative,negative
+66,F,f,f,f,f,f,t,f,f,t,f,f,f,f,f,t,1.7,t,1.4,t,89,t,0.87,t,103,f,,SVI,1028,negative,negative,negative,negative,negative
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,2.1,t,121,t,1.02,t,118,f,,SVI,1363,negative,negative,negative,negative,negative
+58,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,74,t,0.82,t,90,f,,other,471,negative,negative,negative,negative,negative
+34,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.3,t,1.6,t,83,t,0.7,t,118,f,,other,2698,negative,negative,negative,negative,negative
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,1.5,t,91,t,0.81,t,113,f,,other,3208,negative,negative,negative,negative,negative
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.9,t,1.9,t,101,f,,f,,f,,other,2172,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,47,t,1.1,t,52,t,0.9,t,58,f,,other,100,negative,primary hypothyroid,negative,negative,negative
+61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.51,f,,t,90,t,0.81,t,111,f,,other,2689,negative,negative,negative,negative,negative
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2.5,t,106,t,0.97,t,110,f,,SVI,1631,negative,negative,negative,negative,negative
+28,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2,t,115,t,0.92,t,124,f,,other,115,negative,negative,negative,negative,negative
+29,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,f,,t,1.6,t,86,t,0.78,t,111,f,,other,467,negative,negative,negative,negative,negative
+21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.5,t,2.1,t,130,t,1.04,t,124,f,,SVHC,1601,negative,negative,negative,negative,negative
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,2.6,t,89,t,0.98,t,91,f,,other,541,negative,negative,negative,negative,negative
+82,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.3,t,1.4,t,131,t,1.08,t,121,f,,SVI,2571,negative,negative,negative,negative,negative
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,9.2,t,1.8,t,87,t,1.04,t,84,f,,SVHC,2970,negative,compensated hypothyroid,negative,negative,negative
+34,F,f,f,f,f,t,f,f,f,t,f,f,t,f,f,t,0.25,t,3.9,t,139,t,1.27,t,110,f,,other,540,goitre,negative,negative,negative,negative
+45,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.2,t,2.1,t,101,t,0.84,t,121,f,,SVI,291,negative,negative,negative,negative,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.52,t,1.3,t,138,t,1.07,t,129,f,,other,961,negative,negative,negative,negative,negative
+78,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,173,negative,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,t,1.6,t,86,t,1.04,t,83,f,,SVI,3692,negative,negative,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,1.9,t,100,t,1.06,t,93,f,,other,3109,negative,negative,negative,negative,negative
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.68,t,2,t,107,t,0.97,t,110,f,,other,1257,negative,negative,negative,negative,negative
+66,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.42,t,1.9,t,153,t,1.04,t,147,f,,other,2397,negative,negative,negative,negative,negative
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,1.6,t,127,t,1,t,126,f,,SVHC,1415,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,1,t,73,t,0.82,t,89,f,,SVHC,1978,negative,negative,negative,negative,sick
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.56,t,0.6,t,49,t,0.54,t,90,f,,SVI,1011,negative,negative,decreased binding protein,negative,negative
+39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,2.1,t,95,t,0.89,t,107,f,,other,513,negative,negative,negative,negative,negative
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,1.4,t,80,t,0.88,t,91,f,,SVI,641,negative,negative,negative,negative,negative
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,0.4,t,52,t,0.75,t,69,f,,SVI,2892,negative,negative,negative,negative,sick
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.4,t,2.4,t,110,t,0.99,t,111,f,,SVHC,2579,negative,negative,negative,negative,negative
+19,,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.7,t,1.9,t,104,t,1.1,t,94,f,,other,2389,negative,negative,negative,negative,negative
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.8,t,1.9,t,119,t,1,t,119,f,,other,860,negative,negative,negative,negative,negative
+62,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,3.4,t,1.3,t,92,t,0.89,t,104,f,,other,994,negative,negative,negative,negative,negative
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.64,t,1.7,t,102,t,0.76,t,134,f,,SVHC,2481,negative,negative,negative,negative,negative
+57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,f,,t,111,t,1.1,t,101,f,,other,1508,negative,negative,negative,negative,negative
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,2,t,97,t,0.88,t,110,f,,SVI,2813,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.9,t,66,t,0.71,t,93,f,,other,1880,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2.5,t,98,t,1.06,t,92,f,,other,618,negative,negative,negative,negative,negative
+59,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.025,t,5.7,t,372,t,1.27,t,291,f,,SVHD,1239,negative,negative,negative,overreplacement,negative
+64,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.2,t,119,t,0.98,t,121,f,,other,2010,negative,negative,negative,negative,negative
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2.4,t,2,t,66,t,0.74,t,89,f,,SVHC,2347,negative,negative,negative,negative,negative
+42,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,6.2,t,1.7,t,72,t,0.89,t,81,f,,other,2340,negative,compensated hypothyroid,negative,negative,negative
+36,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,1.1,t,69,t,0.6,t,114,f,,SVI,78,negative,negative,negative,negative,sick
+27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.9,t,89,t,0.85,t,105,f,,SVHC,1348,negative,negative,negative,negative,negative
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.7,t,2.5,t,98,t,0.88,t,111,f,,other,1505,negative,compensated hypothyroid,negative,negative,negative
+89,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,1.5,t,120,t,0.92,t,130,f,,SVI,369,negative,negative,negative,negative,negative
+55,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.8,t,52,t,0.95,t,55,f,,other,598,negative,negative,negative,negative,negative
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2.5,t,135,t,1.02,t,132,f,,other,238,negative,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,t,2.2,t,88,t,0.9,t,98,f,,other,2592,negative,negative,negative,negative,negative
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.6,t,114,t,0.93,t,123,f,,other,2460,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,1.6,t,91,t,1.06,t,86,f,,SVI,422,negative,negative,negative,negative,negative
+21,,f,f,f,f,t,f,f,f,f,f,f,t,f,f,t,2.4,t,3.5,t,171,t,1.49,t,115,f,,STMW,2563,goitre,negative,negative,negative,negative
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,2,t,66,t,0.93,t,71,f,,SVHC,329,negative,negative,negative,negative,negative
+58,,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.04,t,2.6,t,117,t,1.02,t,114,f,,other,880,negative,negative,negative,negative,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.82,t,2.6,t,180,t,1.42,t,126,f,,SVI,2032,negative,negative,increased binding protein,negative,negative
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.8,t,2,t,87,t,0.95,t,91,f,,other,3300,negative,negative,negative,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,17,t,1.7,t,65,t,0.68,t,97,f,,other,1812,negative,compensated hypothyroid,negative,negative,negative
+46,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,1.9,t,116,t,0.9,t,129,f,,other,2505,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,2.4,f,,t,122,t,1.12,t,108,f,,other,3739,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.5,t,2.5,t,123,t,1.15,t,107,f,,SVI,791,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,24,t,1.7,t,72,t,1.07,t,68,f,,other,761,negative,compensated hypothyroid,negative,negative,negative
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2,t,97,t,0.71,t,135,f,,SVI,1340,negative,negative,negative,negative,negative
+64,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.85,t,1.1,t,99,t,1.11,t,90,f,,SVI,2220,negative,negative,negative,negative,sick
+52,M,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,1.2,t,1.7,t,92,t,0.76,t,121,f,,other,3554,negative,negative,negative,negative,negative
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.33,t,1.8,t,134,t,0.97,t,138,f,,other,1656,negative,negative,negative,negative,negative
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.6,t,2.1,t,148,t,1.19,t,124,f,,SVHC,1586,negative,negative,negative,negative,negative
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.1,t,2,t,97,t,0.99,t,98,f,,SVI,584,negative,negative,negative,negative,negative
+44,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,t,3,t,1.4,t,103,t,0.88,t,118,f,,SVHC,2951,negative,negative,negative,negative,negative
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,2.3,t,128,t,1.22,t,105,f,,other,1041,negative,negative,negative,negative,negative
+75,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,t,0.25,t,3.4,t,151,t,1.13,t,134,f,,other,473,negative,negative,increased binding protein,negative,negative
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,0.8,t,103,t,0.73,t,141,f,,SVI,726,negative,negative,negative,negative,sick
+61,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.8,t,1.3,t,93,t,0.84,t,111,f,,other,1032,negative,negative,negative,negative,negative
+60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.18,t,2.1,t,132,t,1.1,t,120,f,,other,1499,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.4,t,99,t,1.21,t,82,f,,other,678,negative,negative,negative,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.9,t,135,t,0.96,t,141,f,,SVI,3191,negative,negative,negative,negative,negative
+25,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,3,t,2.1,t,93,t,1.01,t,92,f,,other,1329,negative,negative,negative,negative,negative
+29,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1.3,t,0.9,t,74,t,0.71,t,104,f,,SVI,163,negative,negative,negative,negative,sick
+49,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,1.3,t,77,t,0.65,t,118,f,,other,690,negative,negative,negative,negative,negative
+44,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.26,f,,t,127,t,1.03,t,124,f,,other,3224,negative,negative,negative,negative,negative
+74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,2.1,t,149,t,1.02,t,147,f,,other,2513,negative,negative,negative,negative,negative
+42,M,f,f,t,f,f,f,f,f,t,f,f,f,f,f,t,0.67,t,1.9,t,74,t,0.79,t,93,f,,other,3355,negative,negative,negative,negative,negative
+18,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,f,,t,93,t,1.04,t,89,f,,STMW,3202,negative,negative,negative,negative,negative
+24,M,t,f,f,t,f,f,f,f,f,f,f,f,f,f,t,3.3,t,1.2,t,70,t,0.87,t,80,f,,SVI,177,negative,negative,negative,negative,negative
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,3.1,t,2.7,t,100,t,0.93,t,108,f,,SVHC,3635,negative,negative,negative,negative,negative
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,1.5,t,85,t,0.84,t,102,f,,other,2831,negative,negative,negative,negative,negative
+20,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.4,t,96,f,,f,,f,,SVI,3477,negative,negative,negative,negative,negative
+67,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,2.2,t,105,t,0.91,t,115,f,,other,139,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,21,t,1.2,t,72,f,,f,,f,,other,1903,negative,compensated hypothyroid,negative,negative,negative
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,1.7,t,132,t,0.93,t,141,f,,other,586,negative,negative,negative,negative,negative
+21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2,t,76,t,1.03,t,73,f,,other,2973,negative,negative,negative,negative,negative
+20,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,38,negative,negative,negative,negative,negative
+70,,t,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.02,t,1.5,t,160,t,0.94,t,171,f,,other,3182,negative,negative,negative,overreplacement,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2.1,t,93,t,0.96,t,97,f,,SVI,2717,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.7,t,2.4,t,133,t,1.15,t,116,f,,other,624,negative,negative,negative,negative,negative
+12,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,2.4,f,,t,166,t,1.2,t,138,f,,other,3319,negative,negative,increased binding protein,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5,f,,t,82,t,0.81,t,101,f,,SVHC,3161,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,18,t,2.1,t,68,t,1.08,t,63,f,,other,2093,negative,primary hypothyroid,negative,negative,negative
+26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,2.9,t,94,t,1.15,t,82,f,,SVHC,3387,negative,negative,negative,negative,negative
+51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2.2,t,95,t,0.96,t,100,f,,SVHC,3602,negative,negative,negative,negative,negative
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.8,t,105,t,0.9,t,117,f,,other,223,negative,negative,negative,negative,negative
+43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2.2,t,75,t,0.85,t,88,f,,SVI,2051,negative,negative,negative,negative,negative
+29,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.6,t,2.2,t,87,t,0.95,t,92,f,,other,2545,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.7,t,103,t,0.89,t,116,f,,SVI,3410,negative,negative,negative,negative,negative
+15,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.4,t,4.5,t,97,f,,f,,f,,other,600,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.9,t,99,t,1.03,t,97,f,,SVI,1786,negative,negative,negative,negative,negative
+67,F,f,f,f,t,f,f,f,f,f,f,f,t,f,f,t,1.3,t,2.2,t,104,t,0.92,t,114,f,,other,2040,negative,negative,negative,negative,negative
+14,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.8,t,2.5,t,80,t,0.89,t,90,f,,other,3259,negative,negative,negative,negative,negative
+63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.8,t,1.9,t,102,t,1.18,t,87,f,,SVI,1693,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.4,t,129,t,0.98,t,131,f,,SVHC,166,negative,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.71,t,4.3,t,129,t,1.62,t,79,f,,STMW,2416,goitre,negative,negative,negative,negative
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,2.5,t,114,t,1.01,t,113,f,,other,1517,negative,negative,negative,negative,negative
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2.2,t,112,t,0.97,t,115,f,,other,1430,negative,negative,negative,negative,negative
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2.6,t,119,t,1.2,t,100,f,,other,1808,negative,negative,negative,negative,negative
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2,t,1.8,t,88,t,0.86,t,102,f,,SVHC,1466,negative,negative,negative,negative,negative
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,112,t,0.97,t,116,f,,other,2429,negative,negative,negative,negative,negative
+58,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.035,f,,t,137,t,0.91,t,151,f,,other,1078,negative,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.89,t,1.3,t,118,t,0.87,t,136,f,,SVI,1242,negative,negative,negative,negative,negative
+32,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.96,f,,t,122,t,1.07,t,114,f,,other,1439,negative,negative,negative,negative,negative
+78,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.015,t,2.1,t,214,t,0.87,t,245,f,,other,3532,negative,negative,negative,overreplacement,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,0.2,t,87,t,0.54,t,161,f,,other,2487,negative,negative,decreased binding protein,negative,sick
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,0.7,t,110,t,0.93,t,118,f,,SVI,654,negative,negative,negative,negative,sick
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,1.6,t,91,t,0.88,t,103,f,,SVHC,57,negative,negative,negative,negative,negative
+55,,f,f,f,f,f,f,f,f,f,f,f,f,f,t,f,,f,,t,89,t,0.96,t,93,f,,SVHC,3544,negative,negative,negative,negative,negative
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,1.8,t,102,t,0.99,t,103,f,,SVI,1996,negative,negative,negative,negative,negative
+87,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.2,t,103,t,0.87,t,118,f,,SVI,3037,negative,negative,negative,negative,negative
+60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,1.5,t,132,t,0.95,t,138,f,,other,1529,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.1,t,2,t,125,t,0.97,t,128,f,,other,1435,negative,negative,negative,negative,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,87,t,0.86,t,101,f,,other,209,negative,negative,negative,negative,negative
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.69,t,2.3,t,138,t,1.04,t,133,f,,SVI,3534,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2,t,144,t,1,t,145,f,,SVHC,351,negative,negative,negative,negative,negative
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2,t,87,t,0.73,t,118,f,,SVI,1649,negative,negative,negative,negative,negative
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2.1,t,135,t,0.92,t,147,f,,other,1490,negative,negative,negative,negative,negative
+21,,f,t,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,2.8,t,143,t,1.25,t,114,f,,other,576,negative,negative,negative,negative,negative
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,52,t,1.06,t,49,f,,other,2002,negative,negative,negative,negative,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.5,t,117,t,0.86,t,136,f,,SVI,3327,negative,negative,negative,negative,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2975,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.4,t,79,t,0.77,t,103,f,,SVI,727,negative,negative,negative,negative,negative
+40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.26,f,,t,120,t,1.06,t,114,f,,other,1411,negative,negative,negative,negative,negative
+57,M,t,f,f,f,f,f,f,f,t,f,f,f,f,f,t,50,t,1.3,t,64,f,,f,,f,,other,3654,negative,negative,negative,underreplacement,negative
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.61,t,1.4,t,107,t,0.86,t,124,f,,other,1346,negative,negative,negative,negative,negative
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2.6,t,1.9,t,115,t,1.02,t,114,f,,SVHC,3641,negative,negative,negative,negative,negative
+87,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.2,t,1.5,t,132,t,0.86,t,153,f,,SVI,1991,negative,negative,negative,negative,negative
+25,,t,f,f,f,f,t,f,f,f,f,f,f,f,f,t,1.1,t,2.6,t,212,t,1.75,t,121,f,,STMW,2781,negative,negative,negative,negative,negative
+53,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.03,t,5.4,t,162,t,0.73,t,222,f,,other,3437,hyperthyroid,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,f,,t,96,t,0.87,t,110,f,,SVI,3663,negative,negative,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1900,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.02,t,3.1,t,114,t,0.91,t,126,f,,other,1333,T3 toxic,negative,negative,negative,negative
+87,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1992,negative,negative,negative,negative,negative
+21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,2.6,t,120,t,1.2,t,100,f,,STMW,1208,negative,negative,negative,negative,negative
+65,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.47,t,0.8,t,154,t,0.75,t,204,f,,other,3731,negative,negative,negative,replacement therapy,negative
+43,F,f,f,f,f,f,f,f,t,f,f,f,f,f,t,t,6.5,t,1.8,t,60,t,0.89,t,67,f,,SVHC,2480,negative,compensated hypothyroid,negative,negative,negative
+79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.4,t,1.6,t,110,t,0.85,t,129,f,,SVHC,3412,negative,negative,negative,negative,negative
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.5,t,2.2,t,89,t,1.06,t,84,f,,other,514,negative,negative,negative,negative,negative
+57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.75,t,0.9,t,82,t,0.62,t,133,f,,SVI,2670,negative,negative,negative,negative,sick
+15,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,f,,t,67,t,0.93,t,73,f,,other,1870,negative,negative,negative,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.2,t,2.2,t,104,t,1.11,t,93,f,,other,2401,negative,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.4,t,1.9,t,86,f,,f,,f,,other,3362,negative,negative,negative,negative,negative
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,236,t,0.2,t,16,t,0.94,t,17,f,,other,3302,negative,primary hypothyroid,negative,negative,negative
+77,F,f,f,f,t,f,f,f,t,f,f,f,f,f,f,t,3.5,t,0.8,t,68,t,0.97,t,70,f,,SVI,3533,negative,negative,negative,negative,sick
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.2,t,0.8,t,51,t,0.88,t,58,f,,SVI,2622,negative,primary hypothyroid,negative,negative,sick
+67,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,1.8,t,143,t,0.87,t,164,f,,SVI,2439,negative,negative,negative,negative,negative
+69,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,f,,t,135,t,1.1,t,123,f,,other,719,negative,negative,negative,negative,negative
+29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.7,t,156,t,1.25,t,125,f,,SVHC,2281,negative,negative,negative,negative,negative
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.6,t,90,t,0.97,t,93,f,,other,1754,negative,negative,negative,negative,negative
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,2.1,t,56,t,0.96,t,58,f,,other,1749,negative,negative,negative,negative,negative
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.7,t,1.9,t,104,t,1.13,t,92,f,,SVHC,900,negative,negative,negative,negative,negative
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,1.3,t,93,t,1.01,t,91,f,,SVI,739,negative,negative,negative,negative,negative
+42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,52,t,0.8,t,28,t,0.86,t,33,f,,other,3644,negative,primary hypothyroid,negative,negative,negative
+78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.3,t,116,t,0.97,t,119,f,,SVI,921,negative,negative,negative,negative,negative
+29,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,14,t,1.5,t,95,t,0.9,t,106,f,,other,677,negative,negative,negative,underreplacement,negative
+49,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,f,,t,184,t,0.86,t,214,f,,other,484,negative,negative,negative,overreplacement,negative
+63,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.8,t,1.9,t,98,t,0.89,t,111,f,,SVI,695,negative,negative,negative,negative,negative
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,3.1,t,133,t,1.53,t,87,f,,STMW,1209,negative,negative,increased binding protein,negative,negative
+54,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.4,f,,t,60,t,0.87,t,69,f,,other,50,negative,negative,negative,negative,negative
+15,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,2.3,t,183,t,0.89,t,205,f,,other,1706,negative,negative,negative,overreplacement,negative
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,2,t,99,t,0.96,t,103,f,,other,1625,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2.4,t,142,t,1.12,t,127,f,,other,381,negative,negative,negative,negative,negative
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2.1,t,115,t,0.97,t,119,f,,other,2182,negative,negative,negative,negative,negative
+64,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.7,t,2,t,110,t,1.17,t,94,f,,other,1887,negative,negative,negative,underreplacement,negative
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,2.3,t,68,t,0.94,t,72,f,,other,3013,negative,negative,negative,negative,negative
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,f,,t,98,t,1.04,t,95,f,,other,3377,negative,negative,negative,negative,negative
+85,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.3,t,2.3,t,120,t,0.96,t,126,f,,SVI,3063,negative,negative,negative,negative,negative
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,2.7,t,87,t,0.85,t,102,f,,other,2078,negative,negative,negative,negative,negative
+16,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,t,1.1,t,96,t,0.87,t,111,f,,SVI,3478,negative,negative,negative,negative,sick
+85,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,2.1,t,100,t,1.06,t,95,f,,SVI,1875,negative,negative,negative,negative,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,23,t,0.5,t,33,t,0.67,t,49,f,,SVI,1813,negative,primary hypothyroid,negative,negative,negative
+27,F,f,f,t,f,t,f,f,f,f,f,f,f,f,f,t,0.005,t,2.5,t,145,t,1.45,t,100,f,,other,1014,negative,negative,negative,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.01,t,2.4,t,127,t,0.84,t,152,f,,other,2406,negative,negative,negative,negative,negative
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.42,t,2.4,t,134,t,1.14,t,117,f,,other,1336,negative,negative,negative,negative,negative
+21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.1,f,,t,87,t,0.89,t,98,f,,other,3502,negative,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,2.3,t,105,t,0.97,t,109,f,,other,2518,negative,negative,negative,negative,negative
+75,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,1.9,t,152,t,0.81,t,188,f,,other,2017,negative,negative,negative,overreplacement,negative
+72,F,t,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1.7,f,,t,113,t,0.85,t,132,f,,other,3084,negative,negative,negative,negative,negative
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,5.1,t,187,t,1.17,t,160,f,,other,134,hyperthyroid,negative,negative,negative,negative
+49,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.93,f,,t,74,t,0.87,t,85,f,,other,3270,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,f,,f,,f,,f,,f,,other,1035,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.56,t,1.3,t,70,t,0.93,t,75,f,,SVI,2850,negative,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,314,negative,negative,negative,negative,negative
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.8,t,2.5,t,66,t,0.89,t,75,f,,other,3414,negative,negative,negative,negative,negative
+82,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,0.6,t,139,t,0.86,t,161,f,,SVI,571,negative,negative,negative,negative,negative
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.4,f,,t,104,t,1.12,t,92,f,,other,3662,negative,negative,negative,negative,negative
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.5,t,3.2,t,84,t,0.84,t,100,f,,other,2641,negative,negative,negative,negative,negative
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,f,,t,100,t,0.79,t,127,f,,other,2995,negative,negative,negative,negative,negative
+83,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,1.1,t,66,t,0.71,t,93,f,,SVI,2167,negative,negative,negative,negative,sick
+54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,1.7,t,105,f,,f,,f,,SVI,1178,negative,negative,negative,negative,negative
+32,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,4.1,f,,t,117,t,1.51,t,78,f,,other,667,negative,negative,increased binding protein,negative,negative
+65,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,10,t,2,t,78,f,,f,,f,,other,2560,negative,compensated hypothyroid,negative,negative,negative
+18,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,440,t,0.5,t,24,t,1.32,t,18,f,,other,902,negative,primary hypothyroid,negative,negative,negative
+50,,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.7,t,1.8,t,113,t,1.01,t,112,f,,STMW,2757,negative,negative,negative,negative,negative
+46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.91,t,2.4,t,124,t,1.05,t,118,f,,other,1573,negative,negative,negative,negative,negative
+85,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6,t,2,t,103,f,,f,,f,,other,1258,negative,negative,negative,negative,negative
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3,t,2.6,t,117,t,1.24,t,94,f,,SVI,1231,negative,negative,negative,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,t,1.7,t,109,t,0.93,t,117,f,,other,2728,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2,t,119,t,0.92,t,129,f,,SVI,813,negative,negative,negative,negative,negative
+39,M,f,f,f,f,f,t,f,t,f,f,f,f,f,f,t,3.6,f,,t,92,t,1.09,t,84,f,,other,877,negative,negative,negative,negative,negative
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,139,t,0.9,t,36,t,0.9,t,40,f,,other,2433,negative,primary hypothyroid,negative,negative,negative
+38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.73,t,2.4,t,135,t,1.05,t,129,f,,SVHC,1672,negative,negative,negative,negative,negative
+42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.1,t,1.5,t,53,t,0.76,t,70,f,,other,2953,negative,negative,negative,negative,negative
+14,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.8,t,2.8,t,91,t,1.03,t,88,f,,other,1494,negative,negative,negative,negative,negative
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2,t,90,t,0.85,t,106,f,,other,2778,negative,negative,negative,negative,negative
+85,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,8,t,1.1,t,125,t,0.89,t,142,f,,other,878,negative,compensated hypothyroid,negative,negative,sick
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2,t,143,t,1.31,t,109,f,,other,2855,negative,negative,negative,negative,negative
+51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2.5,t,106,t,0.81,t,130,f,,SVI,1137,negative,negative,negative,negative,negative
+41,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2746,negative,negative,negative,negative,negative
+56,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.4,t,1,t,99,t,0.7,t,142,f,,SVI,2156,negative,negative,negative,negative,sick
+52,M,f,f,f,f,f,t,t,f,f,f,f,f,f,f,t,0.04,t,1.9,t,86,t,0.77,t,112,f,,other,1496,negative,negative,negative,negative,negative
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,f,,t,124,t,1.15,t,108,f,,other,3185,negative,negative,negative,negative,negative
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.82,t,1.4,t,129,t,0.88,t,147,f,,SVHC,3423,negative,negative,negative,negative,negative
+30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.76,t,3.4,t,129,t,1.53,t,84,f,,STMW,3309,negative,negative,increased binding protein,negative,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,530,t,2,t,10,t,1.12,t,8.5,f,,other,2081,negative,primary hypothyroid,negative,negative,negative
+79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,2.2,t,103,t,0.95,t,109,f,,SVI,569,negative,negative,negative,negative,negative
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.9,t,1.9,t,90,t,0.98,t,92,f,,other,2896,negative,negative,negative,negative,negative
+31,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,t,2.5,t,165,t,0.9,t,184,f,,STMW,2731,negative,negative,negative,negative,negative
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,0.2,t,115,t,0.92,t,126,f,,SVI,1002,negative,negative,negative,negative,sick
+79,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1.3,t,0.9,t,102,t,0.95,t,107,f,,SVI,1401,negative,negative,negative,negative,sick
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.19,t,1.8,t,124,t,1.12,t,110,f,,other,1458,negative,negative,negative,negative,negative
+54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.1,t,1.9,t,102,t,0.93,t,110,f,,SVHC,51,negative,negative,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.7,t,2,t,95,t,0.99,t,96,f,,other,2320,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7.5,t,1.6,t,82,t,1.08,t,77,f,,other,449,negative,compensated hypothyroid,negative,negative,negative
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,87,t,1.2,t,73,f,,other,3290,negative,negative,negative,negative,negative
+67,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,f,,t,121,t,0.96,t,127,f,,other,2606,negative,negative,negative,negative,negative
+55,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.55,t,2.1,t,75,t,1.01,t,74,f,,SVI,1476,negative,negative,negative,negative,negative
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.3,t,1,t,97,t,0.65,t,150,f,,SVI,2729,negative,negative,negative,negative,sick
+53,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,f,,t,129,t,1.08,t,119,f,,other,45,negative,negative,negative,negative,negative
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2.4,t,117,t,1.02,t,115,f,,other,1791,negative,negative,negative,negative,negative
+80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,2.2,t,97,t,1.04,t,94,f,,other,804,negative,negative,negative,negative,negative
+26,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2.5,t,132,t,1.24,t,107,f,,other,222,negative,negative,negative,negative,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,1,t,88,t,0.94,t,94,f,,SVHC,1879,negative,negative,negative,negative,sick
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,0.8,t,80,t,0.77,t,104,f,,SVI,504,negative,negative,negative,negative,sick
+45,M,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,1.2,t,2.7,t,120,t,1.13,t,106,f,,other,1516,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.35,t,1.4,t,108,t,1.02,t,105,f,,SVI,3484,negative,negative,negative,negative,negative
+48,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,3,f,,t,90,t,1.14,t,79,f,,other,2006,negative,negative,negative,negative,negative
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.6,t,126,t,0.87,t,145,f,,SVI,916,negative,negative,negative,negative,negative
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,2.1,t,116,f,,f,,f,,other,923,negative,negative,negative,negative,negative
+53,M,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,2.2,t,89,t,0.83,t,107,f,,other,3706,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.7,t,1.6,t,76,t,0.81,t,95,f,,other,3578,negative,negative,negative,negative,negative
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2.3,t,83,t,1.19,t,69,f,,SVHC,2107,negative,negative,negative,negative,negative
+30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.9,t,86,t,0.9,t,96,f,,other,114,negative,negative,negative,negative,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,1.3,t,119,t,0.88,t,135,f,,SVI,2826,negative,negative,negative,negative,negative
+17,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,f,,t,117,t,0.92,t,126,f,,other,723,negative,negative,negative,negative,negative
+82,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,2.1,t,1.7,t,99,t,0.91,t,108,f,,SVI,2130,negative,negative,negative,negative,negative
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,f,,t,134,t,1.14,t,118,f,,other,1436,negative,negative,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.51,f,,t,118,t,1.15,t,103,f,,SVHC,3075,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2.3,t,124,t,1.25,t,99,f,,SVI,2146,negative,negative,negative,negative,negative
+68,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,3.5,f,,f,,f,,f,,other,1653,negative,negative,negative,negative,negative
+54,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,16,t,1.5,t,60,t,0.78,t,77,f,,SVI,3153,negative,compensated hypothyroid,negative,negative,negative
+23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,t,2,t,104,t,1.06,t,98,f,,other,950,negative,negative,negative,negative,negative
+63,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.98,f,,f,,t,0.72,t,118,f,,other,3167,negative,negative,negative,negative,negative
+58,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0.5,t,2.3,t,115,t,1,t,115,f,,other,348,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,2,t,83,t,0.87,t,96,f,,SVHC,1924,negative,negative,negative,negative,negative
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,f,,t,56,t,1.12,t,50,f,,SVI,3149,negative,negative,negative,negative,sick
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.3,t,1.5,t,102,t,0.95,t,108,f,,SVHC,2436,negative,negative,negative,negative,negative
+84,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,f,,t,88,t,0.87,t,100,f,,other,2792,negative,negative,negative,negative,negative
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.85,t,2.5,t,108,t,1.09,t,99,f,,other,1482,negative,negative,negative,negative,negative
+36,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.9,t,2.8,t,126,t,1.29,t,98,f,,other,681,negative,negative,negative,negative,negative
+87,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,0.9,t,106,t,0.92,t,115,f,,SVI,2206,negative,negative,negative,negative,sick
+30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,1.9,t,110,t,0.89,t,125,f,,SVI,1455,negative,negative,negative,negative,negative
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2,t,87,f,,f,,f,,other,132,negative,negative,negative,negative,negative
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.5,t,2.1,t,113,t,1.02,t,111,f,,SVHC,2832,negative,negative,negative,negative,negative
+74,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,23,t,0.7,t,69,t,1.04,t,66,f,,SVI,1291,negative,compensated hypothyroid,negative,negative,sick
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.3,t,1.7,t,146,t,1.22,t,119,f,,other,2393,negative,compensated hypothyroid,negative,negative,negative
+78,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,25,t,0.9,t,50,t,0.84,t,60,f,,SVI,28,negative,primary hypothyroid,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2989,negative,negative,negative,negative,negative
+88,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.83,t,1.5,t,89,t,0.94,t,95,f,,SVI,2100,negative,negative,negative,negative,negative
+19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.84,t,2,t,98,t,0.88,t,112,f,,SVI,840,negative,negative,negative,negative,negative
+68,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,1.7,t,144,t,0.96,t,150,f,,other,409,negative,negative,negative,negative,negative
+75,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,12,t,2,t,141,t,1.13,t,125,f,,other,2919,negative,negative,negative,underreplacement,negative
+73,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.03,t,1.7,t,127,t,0.89,t,143,f,,other,3444,negative,negative,negative,negative,negative
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,27,t,2.3,t,135,t,1.54,t,88,f,,other,1391,negative,compensated hypothyroid,negative,negative,negative
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,3,t,158,t,0.87,t,183,f,,other,2617,hyperthyroid,negative,negative,negative,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,t,1.9,t,106,t,1.06,t,100,f,,SVI,1980,negative,negative,negative,negative,negative
+83,F,f,f,f,t,f,f,f,t,f,f,f,f,f,f,t,2.2,t,0.7,t,71,t,0.76,t,93,f,,SVI,2168,negative,negative,negative,negative,sick
+40,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,t,0.15,t,3,t,210,t,1.48,t,142,f,,other,436,negative,negative,increased binding protein,negative,negative
+34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.03,t,1.6,t,96,t,0.97,t,99,f,,other,1051,negative,negative,negative,negative,negative
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2.3,t,113,t,1.1,t,103,f,,SVI,2764,negative,negative,negative,negative,negative
+84,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,26,f,,t,73,t,1.03,t,72,f,,other,1724,negative,negative,negative,underreplacement,negative
+62,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,t,2,t,103,t,0.95,t,109,f,,other,2595,negative,negative,negative,negative,negative
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2.4,t,103,t,1.14,t,90,f,,other,1738,negative,negative,negative,negative,negative
+37,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1530,negative,negative,negative,negative,negative
+51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2,t,113,t,0.84,t,134,f,,SVI,1986,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.64,t,1,t,103,f,,f,,f,,SVI,3213,negative,negative,negative,negative,sick
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,22,t,0.2,t,4,t,1.01,t,4,f,,other,2801,negative,primary hypothyroid,negative,negative,negative
+29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,0.25,t,2,t,35,f,,f,,f,,SVHC,2395,negative,negative,negative,negative,negative
+42,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.12,f,,t,149,t,1.05,t,143,f,,other,834,negative,negative,negative,negative,negative
+88,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2,t,123,t,1.16,t,107,f,,other,1350,negative,negative,negative,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.69,t,1.6,t,89,t,0.96,t,93,f,,other,3245,negative,negative,negative,negative,negative
+33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2.2,t,118,t,0.89,t,132,f,,SVHC,2485,negative,negative,negative,negative,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,1.7,t,119,f,,f,,f,,SVI,1202,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,1.3,f,,f,,f,,f,,other,3764,negative,negative,negative,negative,negative
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,1.2,t,124,t,1.12,t,111,f,,other,2108,negative,negative,negative,negative,negative
+66,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,0.05,t,1.8,t,133,t,1.02,t,130,f,,SVI,532,negative,negative,negative,negative,negative
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,1.8,t,94,t,0.84,t,111,f,,SVHC,631,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.5,f,,t,45,t,0.47,t,96,f,,other,3197,negative,negative,negative,negative,negative
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,3540,negative,negative,negative,negative,negative
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,2.5,t,109,t,0.75,t,145,f,,SVHC,1848,negative,negative,negative,negative,negative
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,109,t,0.2,t,3,t,1.02,t,3,f,,other,521,negative,primary hypothyroid,negative,negative,negative
+43,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,2.5,t,99,t,1.12,t,89,f,,STMW,644,negative,negative,negative,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2,t,101,t,1.13,t,88,f,,SVHC,1451,negative,negative,negative,negative,negative
+29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1854,negative,negative,negative,negative,negative
+46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,2,t,112,t,1.01,t,111,f,,SVI,701,negative,negative,negative,negative,negative
+35,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.8,t,100,t,0.81,t,123,f,,other,2648,negative,negative,negative,negative,negative
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.9,t,117,t,1,t,118,f,,SVHC,819,negative,negative,negative,negative,negative
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.2,t,1.7,t,87,t,0.87,t,100,f,,SVI,3082,negative,negative,negative,negative,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.1,t,2.1,t,98,t,1.12,t,87,f,,other,2542,negative,negative,negative,negative,negative
+33,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2.1,t,104,t,0.85,t,122,f,,other,3688,negative,negative,negative,negative,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.65,f,,t,120,t,1.07,t,112,f,,SVI,3750,negative,negative,negative,negative,negative
+68,,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,0.8,t,98,t,0.82,t,119,f,,SVI,3112,negative,negative,negative,negative,sick
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,t,1.1,t,62,t,0.7,t,89,f,,SVI,3132,negative,negative,negative,negative,sick
+61,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,f,,t,2,t,147,f,,f,,f,,other,285,negative,negative,negative,negative,negative
+16,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,30,t,1.2,t,30,t,1.45,t,21,f,,other,480,negative,negative,negative,negative,negative
+54,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0.08,t,2.1,t,133,t,1.14,t,116,f,,other,1330,negative,negative,negative,negative,negative
+31,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,22,t,1.2,t,146,t,1.21,t,121,f,,other,2203,negative,negative,negative,underreplacement,negative
+36,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,f,,t,59,t,0.59,t,99,f,,SVHC,3392,negative,negative,decreased binding protein,negative,negative
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.8,t,95,t,0.95,t,101,f,,SVI,506,negative,negative,negative,negative,negative
+88,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,1.6,t,107,t,1.09,t,99,f,,SVI,1072,negative,negative,negative,negative,negative
+39,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,t,6.6,t,248,t,0.89,t,280,f,,other,3233,hyperthyroid,negative,negative,negative,negative
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2.1,t,98,t,0.9,t,109,f,,SVHC,3349,negative,negative,negative,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.1,t,106,t,0.94,t,113,f,,other,96,negative,negative,negative,negative,negative
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.9,t,97,t,0.99,t,99,f,,other,2248,negative,negative,negative,negative,negative
+86,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,2,t,79,t,0.62,t,126,f,,SVI,61,negative,negative,negative,negative,negative
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,1.5,t,63,t,0.68,t,92,f,,other,651,negative,negative,negative,negative,negative
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,2.4,t,130,t,1.24,t,105,f,,other,3473,negative,negative,negative,negative,negative
+38,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,2,t,101,t,1.01,t,100,f,,SVHC,1960,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,1.8,t,88,f,,f,,f,,other,2420,negative,negative,negative,negative,negative
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.1,t,128,t,0.94,t,136,f,,other,1218,negative,negative,negative,negative,negative
+43,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,70,t,0.5,t,2.9,t,1.05,t,2.8,f,,other,110,negative,primary hypothyroid,negative,negative,negative
+47,,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.02,t,1.9,t,111,t,0.93,t,119,f,,other,2765,negative,negative,negative,negative,negative
+53,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2,t,131,t,0.93,t,142,f,,other,1385,negative,negative,negative,negative,negative
+40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,63,t,0.88,t,72,f,,other,3310,negative,negative,negative,negative,negative
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.3,t,119,t,0.9,t,133,f,,SVI,1753,negative,negative,negative,negative,negative
+28,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,t,0.3,t,2.9,t,171,t,1.2,t,143,f,,other,396,negative,negative,negative,negative,negative
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2,t,135,t,1.21,t,111,f,,other,887,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1906,negative,negative,negative,negative,negative
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.9,t,2.4,t,95,t,1.21,t,78,f,,other,2239,negative,negative,negative,negative,negative
+22,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,t,2.7,t,136,t,1.27,t,107,f,,other,2710,negative,negative,negative,negative,negative
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6,t,1.7,t,121,t,1.12,t,108,f,,other,2981,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.025,t,2.3,t,122,t,0.86,t,142,f,,other,1278,negative,negative,negative,negative,negative
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,t,2,t,106,t,1.01,t,105,f,,SVI,2292,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.89,t,2.6,t,95,t,1.01,t,95,f,,other,2076,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.5,t,102,f,,f,,f,,other,3021,negative,negative,negative,negative,negative
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.3,t,2,t,125,t,1.01,t,124,f,,SVI,2669,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.025,f,,t,113,t,0.98,t,116,f,,other,2409,negative,negative,negative,negative,negative
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.6,t,2.5,t,95,t,1,t,95,f,,STMW,753,negative,negative,negative,negative,negative
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.2,t,140,t,1.14,t,123,f,,SVI,1885,negative,negative,negative,negative,negative
+68,M,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,4,t,1.1,t,115,t,0.9,t,128,f,,SVI,2314,negative,negative,negative,negative,sick
+23,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,3,t,174,t,1.35,t,129,f,,other,2664,negative,negative,negative,negative,negative
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,2,t,77,t,0.75,t,103,f,,other,1913,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,7.1,t,223,t,1,t,222,f,,other,2711,hyperthyroid,negative,negative,negative,negative
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.24,t,2.4,t,119,t,1.1,t,109,f,,other,3187,negative,negative,negative,negative,negative
+36,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1805,negative,negative,negative,negative,negative
+47,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.01,t,4.2,t,214,t,1.45,t,148,f,,other,2526,negative,negative,negative,negative,negative
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.68,t,2.2,t,105,f,,f,,f,,other,1429,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,t,0.025,t,1.7,t,141,t,0.88,t,160,f,,SVI,1248,negative,negative,negative,replacement therapy,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,2.5,t,109,t,1.11,t,98,f,,other,1612,negative,negative,negative,negative,negative
+43,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,1.8,t,114,t,0.92,t,125,f,,other,857,negative,negative,negative,negative,negative
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,1.2,t,97,t,0.9,t,107,f,,SVI,640,negative,negative,negative,negative,negative
+71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.7,t,1.7,t,93,t,0.98,t,94,f,,other,2495,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,91,t,0.71,t,128,f,,other,3520,negative,negative,negative,negative,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.82,t,1.4,t,91,t,0.97,t,94,f,,other,2634,negative,negative,negative,negative,negative
+61,F,f,f,f,t,f,t,f,f,f,f,f,f,f,f,t,1.8,t,1.9,t,102,t,1.06,t,97,f,,SVHD,2211,negative,negative,negative,negative,negative
+22,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,t,2.3,t,127,t,1,t,127,f,,other,1082,negative,negative,negative,negative,negative
+79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,0.6,t,94,f,,f,,f,,SVI,3671,negative,negative,negative,negative,sick
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.31,t,2,t,123,t,1.15,t,107,f,,other,2805,negative,negative,negative,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.8,t,2.2,t,77,f,,f,,f,,other,150,negative,compensated hypothyroid,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,4.7,t,172,t,1.83,t,94,f,,STMW,646,negative,negative,increased binding protein,negative,negative
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,3.4,t,91,t,0.97,t,94,f,,SVI,587,negative,negative,negative,negative,negative
+39,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,f,,f,,f,,f,,f,,f,,other,371,negative,negative,negative,negative,negative
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.4,t,1.9,t,93,t,0.97,t,96,f,,SVHC,2636,negative,negative,negative,negative,negative
+61,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.41,t,1.2,t,116,t,0.87,t,134,f,,SVI,867,negative,negative,negative,negative,negative
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.2,t,1.6,t,68,t,1.02,t,66,f,,SVHC,1212,negative,negative,negative,negative,negative
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,103,t,1.09,t,95,f,,other,1260,negative,negative,negative,negative,negative
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.73,t,1.8,t,97,t,0.97,t,101,f,,SVI,1262,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.1,t,0.2,t,59,t,0.73,t,82,f,,SVI,2098,negative,negative,negative,negative,sick
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.01,t,1,t,101,t,0.86,t,117,f,,SVI,1507,negative,negative,negative,negative,sick
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,2.6,t,131,t,1.18,t,111,f,,other,3068,negative,negative,negative,negative,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,13,f,,t,75,t,1.35,t,55,f,,SVI,3081,negative,primary hypothyroid,negative,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,20,t,1,t,51,t,0.84,t,61,f,,SVI,420,negative,primary hypothyroid,negative,negative,negative
+27,F,t,f,f,f,f,f,f,t,f,f,f,f,f,t,t,2.1,t,2.1,t,114,t,1.1,t,104,f,,SVHC,1602,negative,negative,negative,negative,negative
+75,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,f,,t,124,t,0.86,t,144,f,,other,3742,negative,negative,negative,negative,negative
+7,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,t,2.3,t,54,t,0.86,t,63,f,,other,2152,negative,negative,negative,negative,negative
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.2,t,2.1,t,80,t,1.02,t,78,f,,other,483,negative,compensated hypothyroid,negative,negative,negative
+26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.5,t,90,t,0.9,t,100,f,,SVHC,284,negative,negative,negative,negative,negative
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,t,2.1,t,55,t,0.85,t,65,f,,SVHC,1968,negative,negative,negative,negative,negative
+34,F,t,f,f,f,f,f,f,f,f,f,t,f,f,f,f,,f,,t,103,t,1.38,t,75,f,,other,1801,negative,negative,increased binding protein,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.2,t,2.3,t,118,t,1.3,t,91,f,,other,2775,negative,compensated hypothyroid,negative,negative,negative
+25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,t,78,t,0.9,t,87,f,,other,869,negative,negative,negative,negative,negative
+76,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,6.6,t,1,t,91,t,1.04,t,88,f,,SVI,770,negative,negative,negative,underreplacement,sick
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,4.8,t,2.4,t,114,t,0.84,t,135,f,,SVHC,90,negative,negative,negative,negative,negative
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2.7,t,100,t,1.04,t,96,f,,other,427,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.9,t,2,t,121,t,1.19,t,102,f,,other,2304,negative,negative,negative,negative,negative
+40,,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,0.6,t,79,t,0.91,t,87,f,,other,3311,negative,negative,negative,negative,negative
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,1.9,t,92,t,0.92,t,101,f,,other,368,negative,negative,negative,negative,negative
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2.3,t,88,t,0.84,t,106,f,,SVHC,495,negative,negative,negative,negative,negative
+54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,2,t,92,t,1,t,92,f,,SVI,1104,negative,negative,negative,negative,negative
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,f,,t,95,t,1.02,t,93,f,,other,3471,negative,negative,negative,negative,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,0.3,t,73,t,0.9,t,81,f,,other,2345,negative,negative,negative,negative,sick
+50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2,t,94,t,0.96,t,98,f,,other,2432,negative,negative,negative,negative,negative
+81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.6,t,94,t,0.8,t,119,f,,other,2699,negative,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1817,negative,negative,negative,negative,negative
+60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,400,t,0.5,t,11,t,1.19,t,9.1,f,,other,1054,negative,primary hypothyroid,negative,negative,negative
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7.9,t,2.2,t,76,t,1.01,t,75,f,,SVHC,821,negative,compensated hypothyroid,negative,negative,negative
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.9,t,94,t,0.89,t,105,f,,other,1598,negative,negative,negative,negative,negative
+29,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.2,t,0.9,t,54,t,0.76,t,72,f,,SVI,164,negative,negative,negative,negative,sick
+39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1,t,1.9,t,83,t,0.9,t,92,f,,SVHC,2878,negative,negative,negative,negative,negative
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,1.2,t,70,t,0.71,t,99,f,,other,1778,negative,negative,negative,negative,negative
+79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,3.1,t,162,t,0.78,t,209,f,,other,1434,hyperthyroid,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.5,t,80,t,1.12,t,71,f,,SVI,1193,negative,negative,negative,negative,negative
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.9,t,102,t,0.87,t,118,f,,SVI,272,negative,negative,negative,negative,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.045,t,1.2,t,67,t,0.96,t,69,f,,other,3045,negative,negative,negative,negative,negative
+66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,1.9,t,72,t,0.84,t,86,f,,other,1708,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.02,t,3,t,130,f,,f,,f,,other,1578,negative,negative,negative,negative,negative
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,1.9,t,98,t,1.06,t,92,f,,other,3618,negative,negative,negative,negative,negative
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,1.6,t,75,t,0.76,t,99,f,,other,2978,negative,negative,negative,negative,negative
+56,F,t,f,f,f,f,f,t,t,f,f,f,f,f,f,t,2.2,t,1.4,t,88,t,0.77,t,114,f,,other,147,negative,negative,negative,negative,negative
+35,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,230,t,1.5,t,36,t,1.34,t,27,f,,other,2788,negative,primary hypothyroid,negative,negative,negative
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,1.2,t,95,t,0.83,t,114,f,,SVI,1377,negative,negative,negative,negative,negative
+53,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,t,0.09,t,3.9,t,216,t,1.15,t,188,f,,other,3759,negative,negative,negative,negative,negative
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,2,t,105,t,0.9,t,116,f,,SVHC,2046,negative,negative,negative,negative,negative
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.005,t,2.4,t,153,t,1.19,t,129,f,,other,879,negative,negative,negative,negative,negative
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.9,t,1.6,t,103,t,1.13,t,91,f,,SVI,3071,negative,negative,negative,negative,negative
+52,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.3,t,116,t,0.94,t,123,f,,other,686,negative,negative,negative,negative,negative
+36,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,1.8,t,124,t,0.75,t,166,f,,SVI,489,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.6,t,1.9,t,114,f,,f,,f,,SVI,3391,negative,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.4,t,91,f,,f,,f,,other,268,negative,negative,negative,negative,negative
+53,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.005,f,,t,103,t,1.08,t,95,f,,SVI,3399,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.7,t,1,t,112,t,1.02,t,110,f,,SVI,982,negative,negative,negative,negative,sick
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,1.8,t,76,t,0.8,t,95,f,,SVI,1757,negative,negative,negative,negative,negative
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,2.7,t,102,t,0.94,t,109,f,,SVHC,2833,negative,negative,negative,negative,negative
+72,F,t,f,f,f,f,f,f,f,f,f,f,t,f,f,f,,t,3.2,f,,f,,f,,f,,other,65,negative,negative,negative,negative,negative
+58,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.1,t,2.3,t,60,t,0.89,t,68,f,,other,3584,negative,negative,negative,negative,negative
+30,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,t,1.1,t,3.6,t,159,t,1.65,t,96,f,,STMW,1540,negative,negative,increased binding protein,negative,negative
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,3.1,t,2.7,t,131,t,1.03,t,126,f,,SVHC,1537,negative,negative,negative,negative,negative
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,2.2,t,104,t,1.02,t,102,f,,SVHC,1872,negative,negative,negative,negative,negative
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.8,t,2,t,90,t,0.92,t,98,f,,SVHC,2988,negative,negative,negative,negative,negative
+68,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.5,t,74,t,0.72,t,103,f,,SVI,433,negative,negative,negative,negative,negative
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,t,2.5,t,102,t,1.16,t,87,f,,other,1607,negative,negative,negative,negative,negative
+54,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,7,f,,t,95,t,0.98,t,98,f,,other,253,negative,negative,negative,underreplacement,negative
+62,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,t,0.035,t,2.6,t,128,t,1.03,t,124,f,,SVI,2230,negative,negative,negative,negative,negative
+34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.6,t,1.7,t,67,t,1.15,t,59,f,,SVHC,984,negative,negative,negative,negative,negative
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,2.1,t,123,t,1.03,t,119,f,,SVI,257,negative,negative,negative,negative,negative
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.2,t,2.1,t,80,t,1.01,t,79,f,,other,2214,negative,compensated hypothyroid,negative,negative,negative
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.73,t,1.8,t,109,t,1.05,t,104,f,,SVI,1090,negative,negative,negative,negative,negative
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,2.3,t,2.5,t,114,t,1.07,t,106,f,,SVHC,2817,negative,negative,negative,negative,negative
+21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2255,negative,negative,negative,negative,negative
+24,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,66,t,1,t,112,t,1.01,t,110,f,,other,1419,negative,negative,negative,underreplacement,sick
+17,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,1.1,t,52,t,0.36,t,145,f,,other,3417,negative,negative,decreased binding protein,negative,negative
+29,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,15,f,,t,113,t,1.13,t,100,f,,other,3585,negative,negative,negative,underreplacement,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.3,t,2.5,t,105,t,1.01,t,103,f,,other,874,negative,negative,negative,negative,negative
+31,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,f,,t,2.9,t,159,t,1.43,t,111,f,,other,187,goitre,negative,negative,negative,negative
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,13,f,,t,87,t,0.85,t,103,f,,SVI,3693,negative,compensated hypothyroid,negative,negative,negative
+27,F,f,t,f,f,t,f,f,f,f,f,f,f,f,f,t,2.2,t,4.1,t,157,t,2.01,t,78,f,,other,1302,negative,negative,increased binding protein,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,t,1.1,t,171,t,1.09,t,157,f,,other,413,negative,negative,negative,negative,negative
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.1,t,2.4,t,132,t,1.28,t,103,f,,other,938,negative,compensated hypothyroid,negative,negative,negative
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2.4,t,149,t,1.18,t,126,f,,other,1828,negative,negative,negative,negative,negative
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.4,f,,t,104,t,0.94,t,112,f,,STMW,3713,negative,negative,negative,negative,negative
+31,F,t,f,f,f,t,f,f,f,t,f,f,f,f,f,t,0.44,t,1.5,t,75,t,0.92,t,81,f,,STMW,3260,negative,negative,negative,negative,negative
+43,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,t,2.6,t,1.8,t,137,t,1.02,t,134,f,,other,125,negative,negative,negative,negative,negative
+56,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.3,t,1.8,t,104,f,,f,,f,,other,2649,negative,negative,negative,negative,negative
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1.8,t,94,t,0.76,t,124,f,,SVI,2630,negative,negative,negative,negative,negative
+39,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,t,2,t,2.3,t,102,t,1.16,t,88,f,,other,2400,negative,negative,negative,negative,negative
+23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,t,2.7,t,138,t,1.34,t,103,f,,other,2103,negative,negative,negative,negative,negative
+74,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.28,t,1.3,t,138,t,0.83,t,166,f,,SVI,2744,negative,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2521,negative,negative,negative,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2.5,t,91,t,1.02,t,90,f,,SVI,3009,negative,negative,negative,negative,negative
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2.5,t,125,t,1.22,t,102,f,,other,585,negative,negative,negative,negative,negative
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.82,t,2.4,t,96,t,0.91,t,105,f,,SVI,1545,negative,negative,negative,negative,negative
+77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2.4,t,100,t,0.8,t,124,f,,SVI,26,negative,negative,negative,negative,negative
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,263,negative,negative,negative,negative,negative
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,t,2,t,84,t,0.9,t,93,f,,SVI,235,negative,negative,negative,negative,negative
+26,F,t,f,f,f,t,f,f,f,f,f,f,f,f,f,t,0.2,t,3.9,t,122,t,1.28,t,96,f,,other,1769,negative,negative,increased binding protein,negative,negative
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.45,t,2.5,t,100,t,1.17,t,86,f,,SVHC,1638,negative,negative,negative,negative,negative
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.68,t,1.8,t,104,t,0.89,t,117,f,,other,3092,negative,negative,negative,negative,negative
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,2.8,t,87,t,1,t,87,f,,SVI,642,negative,negative,negative,negative,negative
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,1.9,t,108,t,1.06,t,102,f,,SVI,1102,negative,negative,negative,negative,negative
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,1.8,t,102,t,0.97,t,106,f,,SVHC,1219,negative,negative,negative,negative,negative
+74,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,1.3,t,1.2,t,89,t,0.94,t,95,f,,other,104,negative,negative,negative,negative,negative
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2,f,,t,74,t,1.05,t,70,f,,other,3568,negative,negative,negative,negative,negative
+43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.2,t,78,t,0.72,t,108,f,,other,333,negative,negative,negative,negative,negative
+74,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,23,t,0.2,t,50,t,0.85,t,58,f,,SVI,1067,negative,primary hypothyroid,negative,negative,negative
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,1.4,t,124,t,1.2,t,103,f,,SVI,27,negative,negative,negative,negative,negative
+69,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,0.05,t,2.6,t,93,t,0.88,t,106,f,,other,195,negative,negative,negative,negative,negative
+36,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,f,,t,1.8,t,82,f,,f,,f,,SVI,283,negative,negative,negative,negative,negative
+69,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.3,t,1.5,t,130,t,0.86,t,151,f,,other,1768,negative,negative,negative,negative,negative
+34,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,f,,t,5.3,t,181,t,1.04,t,174,f,,other,1775,hyperthyroid,negative,negative,negative,negative
+84,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2.1,t,110,t,1.04,t,106,f,,SVI,570,negative,negative,negative,negative,negative
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.1,t,0.8,t,77,t,0.82,t,93,f,,SVI,1474,negative,negative,negative,negative,sick
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,t,2.3,t,81,t,0.92,t,88,f,,SVI,428,negative,negative,negative,negative,negative
+31,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,2.6,t,113,t,0.91,t,123,f,,other,82,negative,negative,negative,negative,negative
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,65,t,0.7,t,28,t,1,t,28,f,,other,1843,negative,primary hypothyroid,negative,negative,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,t,1.7,t,1.9,t,89,t,0.88,t,102,f,,SVHC,1735,negative,negative,negative,negative,negative
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,t,1.1,t,95,t,0.97,t,98,f,,SVI,2368,negative,negative,negative,negative,sick
+80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,t,2.3,t,124,t,1.04,t,118,f,,SVI,71,negative,negative,negative,negative,negative
+84,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.3,f,,t,154,t,0.97,t,159,f,,other,395,negative,negative,negative,replacement therapy,negative
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,0.7,t,50,t,0.25,t,205,f,,other,2259,negative,negative,negative,negative,negative
+43,,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.6,t,1.4,t,137,t,1.12,t,123,f,,other,3261,negative,negative,negative,underreplacement,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,t,2.1,t,78,t,0.82,t,95,f,,other,1937,negative,negative,negative,negative,negative
+79,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.1,t,2,t,107,t,1.04,t,104,f,,other,2843,negative,negative,negative,negative,negative
+81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.5,t,1.8,t,76,t,1.02,t,75,f,,SVI,2136,negative,negative,negative,negative,negative
+60,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,8.2,t,1.7,t,65,t,0.96,t,68,f,,SVI,1554,negative,compensated hypothyroid,negative,negative,negative
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,2.3,t,83,t,0.97,t,85,f,,SVHC,1923,negative,negative,negative,negative,negative
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,117,t,0.4,t,17,t,1.14,t,15,f,,SVI,1666,negative,primary hypothyroid,negative,negative,negative
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,f,,t,184,t,1.21,t,153,f,,other,346,negative,negative,negative,negative,negative
+23,F,f,f,f,f,f,f,f,f,f,t,f,f,f,t,t,2.1,t,3.1,t,116,t,1.2,t,96,f,,SVHC,2885,negative,negative,negative,negative,negative
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,1.9,t,90,t,0.87,t,104,f,,SVI,2294,negative,negative,negative,negative,negative
+34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.8,t,60,t,0.75,t,80,f,,SVI,445,negative,negative,negative,negative,negative
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,1865,negative,negative,negative,negative,negative
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,t,2,t,88,f,,f,,f,,other,1834,negative,negative,negative,negative,negative
+49,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,2.7,t,141,t,1.17,t,120,f,,SVI,320,negative,negative,negative,negative,negative
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,55,t,0.6,t,15,t,0.89,t,17,f,,SVI,2619,negative,primary hypothyroid,negative,negative,negative
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.1,t,2.1,t,87,t,0.93,t,94,f,,SVI,25,negative,negative,negative,negative,negative
+35,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,0.4,t,38,t,1.08,t,35,f,,SVI,1917,negative,negative,negative,negative,sick
+78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.3,t,1.1,t,56,t,0.86,t,65,f,,SVI,140,negative,compensated hypothyroid,negative,negative,sick
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,966,negative,negative,negative,negative,negative
+50,F,f,f,f,f,f,f,f,t,t,f,f,t,f,f,t,40,t,2.2,t,75,t,1.01,t,74,f,,other,828,negative,compensated hypothyroid,negative,negative,negative
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,2.1,t,100,t,0.95,t,106,f,,other,1611,negative,negative,negative,negative,negative
+81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,t,1,t,92,t,0.99,t,93,f,,other,3267,negative,negative,negative,negative,sick
+42,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,f,,t,258,t,1.14,t,227,f,,other,1763,negative,negative,negative,replacement therapy,negative
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,t,1.7,t,107,t,0.94,t,113,f,,other,1699,negative,negative,negative,negative,negative
+80,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,t,3.7,t,152,t,0.93,t,164,f,,SVI,523,hyperthyroid,negative,negative,negative,negative
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.3,t,112,t,1.01,t,111,f,,other,693,negative,negative,negative,negative,negative
+77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,t,1.3,t,102,t,0.95,t,108,f,,SVI,1052,negative,negative,negative,negative,negative
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,t,2.4,t,96,t,0.98,t,99,f,,other,831,negative,negative,negative,negative,negative
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,t,1,t,72,t,0.7,t,103,f,,other,1015,negative,negative,negative,negative,negative
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,,f,,f,,f,,f,,f,,other,2901,negative,negative,negative,negative,negative
+54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,t,1.9,t,89,t,0.85,t,104,f,,SVI,2751,negative,negative,negative,negative,negative
+73,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.5,t,2.1,t,104,t,1.13,t,92,f,,SVI,2157,negative,negative,negative,underreplacement,negative
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.8,t,2.7,t,108,t,1.11,t,97,f,,other,1593,negative,compensated hypothyroid,negative,negative,negative
+30,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,f,,f,,f,,f,,f,,f,,other,2924,negative,negative,negative,negative,negative
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2.1,t,124,t,1.08,t,114,f,,SVI,974,negative,negative,negative,negative,negative
+74,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,t,5.1,t,1.8,t,112,t,1.07,t,105,f,,other,1493,negative,negative,negative,negative,negative
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,2,t,82,t,0.94,t,87,f,,SVI,252,negative,negative,negative,negative,negative
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1,t,2.2,t,99,t,1.07,t,92,f,,other,2008,negative,negative,negative,negative,negative
